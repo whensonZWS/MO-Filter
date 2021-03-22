@@ -1,0 +1,1943 @@
+{
+    "E1": {
+        "image": "http://mentalomega.com/images/cameo/giicon.png",
+        "name": "G.I.",
+        "description": "Name: G.I.<br>INI Name: E1<br>VoiceAttack: GIAttackCommand<br>Art: giicon<br>Index: 0",
+        "filter": "ga inf t1"
+    },
+    "ADOG": {
+        "image": "http://mentalomega.com/images/cameo/adogicon.png",
+        "name": "Allied Attack Dog",
+        "description": "Name: Allied Attack Dog<br>INI Name: ADOG<br>VoiceAttack: DogAttackCommand<br>Art: adogicon<br>Index: 2",
+        "filter": "ga inf t1"
+    },
+    "ENGINEER": {
+        "image": "http://mentalomega.com/images/cameo/engnicon.png",
+        "name": "Allied Engineer",
+        "description": "Name: Allied Engineer<br>INI Name: ENGINEER<br>VoiceAttack: EngAllMove<br>Art: engnicon<br>Index: 3",
+        "filter": "ga inf t1"
+    },
+    "AMEDIC": {
+        "image": "http://mentalomega.com/images/cameo/mediicon.png",
+        "name": "Field Medic",
+        "description": "Name: Field Medic<br>INI Name: AMEDIC<br>VoiceAttack: MedicAttackCommand<br>Art: mediicon<br>Index: 9",
+        "filter": "ga inf t2"
+    },
+    "GGI": {
+        "image": "http://mentalomega.com/images/cameo/gdgiicon.png",
+        "name": "Guardian G.I.",
+        "description": "Name: Guardian G.I.<br>INI Name: GGI<br>VoiceAttack: GuardianGIAttackCommand<br>Art: gdgiicon<br>Index: 1",
+        "filter": "ga inf t1"
+    },
+    "ENFO": {
+        "image": "http://mentalomega.com/images/cameo/enfoicon.png",
+        "name": "Siege Cadre",
+        "description": "Name: Siege Cadre<br>INI Name: ENFO<br>VoiceAttack: SiegeCadreAttackCommand<br>Art: enfoicon<br>Index: 4",
+        "filter": "ga inf t2"
+    },
+    "JUMPJET": {
+        "image": "http://mentalomega.com/images/cameo/jjeticon.png",
+        "name": "Rocketeer",
+        "description": "Name: Rocketeer<br>INI Name: JUMPJET<br>VoiceAttack: RocketeerAttackCommand<br>Art: jjeticon<br>Index: 5",
+        "filter": "ga inf t2"
+    },
+    "SPY": {
+        "image": "http://mentalomega.com/images/cameo/spyicon.png",
+        "name": "Spy",
+        "description": "Name: Spy<br>INI Name: SPY<br>VoiceAttack: SpyAttackCommand<br>Art: spyicon<br>Index: 7",
+        "filter": "ga inf t3"
+    },
+    "GHOST": {
+        "image": "http://mentalomega.com/images/cameo/sealicon.png",
+        "name": "Navy SEAL",
+        "description": "Name: Navy SEAL<br>INI Name: GHOST<br>VoiceAttack: SealAttackCommand<br>Art: sealicon<br>Index: 6",
+        "filter": "ga inf t2"
+    },
+    "TANY": {
+        "image": "http://mentalomega.com/images/cameo/tanyicon.png",
+        "name": "Tanya",
+        "description": "Name: Tanya<br>INI Name: TANY<br>VoiceAttack: TanyaPrimeAttackCommand<br>Art: tanyicon<br>Index: 13",
+        "filter": "ga inf t3"
+    },
+    "SUPR": {
+        "image": "http://mentalomega.com/images/cameo/supricon.png",
+        "name": "Suppressor",
+        "description": "Name: Suppressor<br>INI Name: SUPR<br>VoiceAttack: SuppressorAttackCommand<br>Art: supricon<br>Index: 12",
+        "filter": "ga inf t3"
+    },
+    "ARMR": {
+        "image": "http://mentalomega.com/images/cameo/armricon.png",
+        "name": "Norio",
+        "description": "Name: Norio<br>INI Name: ARMR<br>VoiceAttack: ArmormanMissileAttackCommand<br>Art: armricon<br>Index: 15",
+        "filter": "ga inf t3"
+    },
+    "CLEG": {
+        "image": "http://mentalomega.com/images/cameo/clegicon.png",
+        "name": "Chrono Legionnaire",
+        "description": "Name: Chrono Legionnaire<br>INI Name: CLEG<br>VoiceAttack: ChronoLegionAttackCommand<br>Art: clegicon<br>Index: 8",
+        "filter": "ga inf t3"
+    },
+    "SNIPE": {
+        "image": "http://mentalomega.com/images/cameo/snipicon.png",
+        "name": "Sniper",
+        "description": "Name: Sniper<br>INI Name: SNIPE<br>VoiceAttack: SniperAttackCommand<br>Art: snipicon<br>Index: 11",
+        "filter": "ga inf t3"
+    },
+    "RIOT": {
+        "image": "http://mentalomega.com/images/cameo/rioticon.png",
+        "name": "Riot Trooper",
+        "description": "Name: Riot Trooper<br>INI Name: RIOT<br>VoiceAttack: RiotTrooperAttackCommand<br>Art: rioticon<br>Index: 10",
+        "filter": "ga inf t3"
+    },
+    "SIEG": {
+        "image": "http://mentalomega.com/images/cameo/siegicon.png",
+        "name": "Siegfried",
+        "description": "Name: Siegfried<br>INI Name: SIEG<br>VoiceAttack: SiegfriedAttackCommand<br>Art: siegicon<br>Index: 14",
+        "filter": "ga inf t3"
+    },
+    "E2": {
+        "image": "http://mentalomega.com/images/cameo/e2icon.png",
+        "name": "Conscript",
+        "description": "Name: Conscript<br>INI Name: E2<br>VoiceAttack: ConscriptAttackCommand<br>Art: e2icon<br>Index: 16",
+        "filter": "na inf t1"
+    },
+    "DOG": {
+        "image": "http://mentalomega.com/images/cameo/dogicon.png",
+        "name": "Soviet Attack Dog",
+        "description": "Name: Soviet Attack Dog<br>INI Name: DOG<br>VoiceAttack: DogAttackCommand<br>Art: dogicon<br>Index: 18",
+        "filter": "na inf t1"
+    },
+    "FLAKT": {
+        "image": "http://mentalomega.com/images/cameo/flkticon.png",
+        "name": "Flak Trooper",
+        "description": "Name: Flak Trooper<br>INI Name: FLAKT<br>VoiceAttack: FlakTroopAttackCommand<br>Art: flkticon<br>Index: 17",
+        "filter": "na inf t1"
+    },
+    "SENGINEER": {
+        "image": "http://mentalomega.com/images/cameo/sengicon.png",
+        "name": "Soviet Engineer",
+        "description": "Name: Soviet Engineer<br>INI Name: SENGINEER<br>VoiceAttack: EngSovMove<br>Art: sengicon<br>Index: 19",
+        "filter": "na inf t1"
+    },
+    "SHK": {
+        "image": "http://mentalomega.com/images/cameo/shkicon.png",
+        "name": "Tesla Trooper",
+        "description": "Name: Tesla Trooper<br>INI Name: SHK<br>VoiceAttack: TeslaTroopAttackCommand<br>Art: shkicon<br>Index: 20",
+        "filter": "na inf t2"
+    },
+    "SHOCK": {
+        "image": "http://mentalomega.com/images/cameo/shkticon.png",
+        "name": "Shock Trooper",
+        "description": "Name: Shock Trooper<br>INI Name: SHOCK<br>VoiceAttack: TeslaTroopAttackCommand<br>Art: shkticon<br>Index: 26",
+        "filter": "na inf t2"
+    },
+    "FLAMER": {
+        "image": "http://mentalomega.com/images/cameo/pyroicon.png",
+        "name": "Pyro",
+        "description": "Name: Pyro<br>INI Name: FLAMER<br>VoiceAttack: PyroAttackCommand<br>Art: pyroicon<br>Index: 21",
+        "filter": "na inf t2"
+    },
+    "GYRO": {
+        "image": "http://mentalomega.com/images/cameo/gyroicon.png",
+        "name": "Gyrocopter",
+        "description": "Name: Gyrocopter<br>INI Name: GYRO<br>VoiceAttack: GyrocopterAttackCommand<br>Art: gyroicon<br>Index: 29",
+        "filter": "na inf t2"
+    },
+    "MOTOR": {
+        "image": "http://mentalomega.com/images/cameo/quadicon.png",
+        "name": "Mortar Quad",
+        "description": "Name: Mortar Quad<br>INI Name: MOTOR<br>VoiceAttack: MortarQuadAttackCommand<br>Art: quadicon<br>Index: 22",
+        "filter": "na inf t2"
+    },
+    "IVAN": {
+        "image": "http://mentalomega.com/images/cameo/ivanicon.png",
+        "name": "Crazy Ivan",
+        "description": "Name: Crazy Ivan<br>INI Name: IVAN<br>VoiceAttack: CrazyIvanAttackCommand<br>Art: ivanicon<br>Index: 23",
+        "filter": "na inf t2"
+    },
+    "ARSO": {
+        "image": "http://mentalomega.com/images/cameo/arsoicon.png",
+        "name": "Arsonist",
+        "description": "Name: Arsonist<br>INI Name: ARSO<br>VoiceAttack: ArsonistDisguise<br>Art: arsoicon<br>Index: 28",
+        "filter": "na inf t3"
+    },
+    "SBTR": {
+        "image": "http://mentalomega.com/images/cameo/sbtricon.png",
+        "name": "Saboteur",
+        "description": "Name: Saboteur<br>INI Name: SBTR<br>VoiceAttack: SaboteurAttackCommand<br>Art: sbtricon<br>Index: 27",
+        "filter": "na inf t3"
+    },
+    "MORALES": {
+        "image": "http://mentalomega.com/images/cameo/moraicon.png",
+        "name": "Morales",
+        "description": "Name: Morales<br>INI Name: MORALES<br>VoiceAttack: MoralesAttackCommand<br>Art: moraicon<br>Index: 32",
+        "filter": "na inf t3"
+    },
+    "VOLKOV": {
+        "image": "http://mentalomega.com/images/cameo/volkicon.png",
+        "name": "Volkov",
+        "description": "Name: Volkov<br>INI Name: VOLKOV<br>VoiceAttack: VolkovAttackCommand<br>Art: volkicon<br>Index: 30",
+        "filter": "na inf t3"
+    },
+    "CHITZ": {
+        "image": "http://mentalomega.com/images/cameo/hhndicon.png",
+        "name": "Chitzkoi",
+        "description": "Name: Chitzkoi<br>INI Name: CHITZ<br>VoiceAttack: ChitzkoiAttackCommand<br>Art: hhndicon<br>Index: 31",
+        "filter": "na inf t3"
+    },
+    "YUNRU": {
+        "image": "http://mentalomega.com/images/cameo/yunricon.png",
+        "name": "Yunru",
+        "description": "Name: Yunru<br>INI Name: YUNRU<br>VoiceAttack: YunruAttackCommand<br>Art: yunricon<br>Index: 33",
+        "filter": "na inf t3"
+    },
+    "DESO": {
+        "image": "http://mentalomega.com/images/cameo/desoicon.png",
+        "name": "Desolator",
+        "description": "Name: Desolator<br>INI Name: DESO<br>VoiceAttack: DesolatorAttackCommand<br>Art: desoicon<br>Index: 24",
+        "filter": "na inf t3"
+    },
+    "DESOR": {
+        "image": "http://mentalomega.com/images/cameo/desricon.png",
+        "name": "Eradicator",
+        "description": "Name: Eradicator<br>INI Name: DESOR<br>VoiceAttack: DesolatorAttackCommand<br>Art: desricon<br>Index: 25",
+        "filter": "na inf t3"
+    },
+    "INIT": {
+        "image": "http://mentalomega.com/images/cameo/initicon.png",
+        "name": "Initiate",
+        "description": "Name: Initiate<br>INI Name: INIT<br>VoiceAttack: InitiateAttackCommand<br>Art: initicon<br>Index: 34",
+        "filter": "ya inf t1"
+    },
+    "HARP": {
+        "image": "http://mentalomega.com/images/cameo/harpicon.png",
+        "name": "Archer",
+        "description": "Name: Archer<br>INI Name: HARP<br>VoiceAttack: HarpoonAttackCommand<br>Art: harpicon<br>Index: 35",
+        "filter": "ya inf t1"
+    },
+    "YDOG": {
+        "image": "http://mentalomega.com/images/cameo/spokicon.png",
+        "name": "Spook",
+        "description": "Name: Spook<br>INI Name: YDOG<br>VoiceAttack: SpookAttackCommand<br>Art: spokicon<br>Index: 38",
+        "filter": "ya inf t1"
+    },
+    "YENGINEER": {
+        "image": "http://mentalomega.com/images/cameo/yengicon.png",
+        "name": "Epsilon Engineer",
+        "description": "Name: Epsilon Engineer<br>INI Name: YENGINEER<br>VoiceAttack: EngYuriCapture<br>Art: yengicon<br>Index: 36",
+        "filter": "ya inf t1"
+    },
+    "BRUTE": {
+        "image": "http://mentalomega.com/images/cameo/bruticon.png",
+        "name": "Brute",
+        "description": "Name: Brute<br>INI Name: BRUTE<br>VoiceAttack: BruteAttackCommand<br>Art: bruticon<br>Index: 40",
+        "filter": "ya inf t2"
+    },
+    "INTRUDER": {
+        "image": "http://mentalomega.com/images/cameo/intricon.png",
+        "name": "Infiltrator",
+        "description": "Name: Infiltrator<br>INI Name: INTRUDER<br>VoiceAttack: InfiltratorDisguise<br>Art: intricon<br>Index: 45",
+        "filter": "ya inf t3"
+    },
+    "SCRG": {
+        "image": "http://mentalomega.com/images/cameo/scrgicon.png",
+        "name": "Scourge",
+        "description": "Name: Scourge<br>INI Name: SCRG<br>VoiceAttack: ScourgeAttackCommand<br>Art: scrgicon<br>Index: 72",
+        "filter": "ya inf t3"
+    },
+    "STALKER": {
+        "image": "http://mentalomega.com/images/cameo/stlkicon.png",
+        "name": "Stalker",
+        "description": "Name: Stalker<br>INI Name: STALKER<br>VoiceAttack: StalkerAttackCommand<br>Art: stlkicon<br>Index: 44",
+        "filter": "ya inf t3"
+    },
+    "KAOS": {
+        "image": "http://mentalomega.com/images/cameo/weavicon.png",
+        "name": "Bloatick",
+        "description": "Name: Bloatick<br>INI Name: KAOS<br>VoiceAttack: WeaverAttackCommand<br>Art: weavicon<br>Index: 39",
+        "filter": "ya inf t2"
+    },
+    "VIRUS": {
+        "image": "http://mentalomega.com/images/cameo/vrusicon.png",
+        "name": "Virus",
+        "description": "Name: Virus<br>INI Name: VIRUS<br>VoiceAttack: VirusAttackCommand<br>Art: vrusicon<br>Index: 47",
+        "filter": "ya inf t3"
+    },
+    "YURI": {
+        "image": "http://mentalomega.com/images/cameo/yclnicon.png",
+        "name": "Epsilon Adept",
+        "description": "Name: Epsilon Adept<br>INI Name: YURI<br>VoiceAttack: YuriAttackCommand<br>Art: yclnicon<br>Index: 41",
+        "filter": "ya inf t3"
+    },
+    "YURIPR": {
+        "image": "http://mentalomega.com/images/cameo/yypricon.png",
+        "name": "Epsilon Elite",
+        "description": "Name: Epsilon Elite<br>INI Name: YURIPR<br>VoiceAttack: YuriAttackCommand<br>Art: YYPRICON<br>Index: 42",
+        "filter": "ya inf t3"
+    },
+    "ASSN": {
+        "image": "http://mentalomega.com/images/cameo/assnicon.png",
+        "name": "Rahn",
+        "description": "Name: Rahn<br>INI Name: ASSN<br>VoiceAttack: RahnAttackCommand<br>Art: assnicon<br>Index: 48",
+        "filter": "ya inf t3"
+    },
+    "UNDER": {
+        "image": "http://mentalomega.com/images/cameo/undricon.png",
+        "name": "Malver",
+        "description": "Name: Malver<br>INI Name: UNDER<br>VoiceAttack: UnderminerAttackCommand<br>Art: undricon<br>Index: 49",
+        "filter": "ya inf t3"
+    },
+    "LIBRA": {
+        "image": "http://mentalomega.com/images/cameo/libricon.png",
+        "name": "Libra",
+        "description": "Name: Libra<br>INI Name: LIBRA<br>VoiceAttack: LibraDartsAttackCommand<br>Art: libricon<br>Index: 50",
+        "filter": "ya inf t3"
+    },
+    "DUNE": {
+        "image": "http://mentalomega.com/images/cameo/razgicon.png",
+        "name": "Dunerider",
+        "description": "Name: Dunerider<br>INI Name: DUNE<br>VoiceAttack: GarAttackCommand<br>Art: razgicon<br>Index: 43",
+        "filter": "ya inf t2"
+    },
+    "KNIGHT": {
+        "image": "http://mentalomega.com/images/cameo/knigicon.png",
+        "name": "Knightframe",
+        "description": "Name: Knightframe<br>INI Name: KNIGHT<br>VoiceAttack: KnightframeAttackCommand<br>Art: knigicon<br>Index: 52",
+        "filter": "fa inf t1"
+    },
+    "COVE": {
+        "image": "http://mentalomega.com/images/cameo/lancicon.png",
+        "name": "Lancer",
+        "description": "Name: Lancer<br>INI Name: COVE<br>VoiceAttack: LancerAttackCommand<br>Art: lancicon<br>Index: 54",
+        "filter": "fa inf t1"
+    },
+    "FENGINEER": {
+        "image": "http://mentalomega.com/images/cameo/fengicon.png",
+        "name": "Foehn Engineer",
+        "description": "Name: Foehn Engineer<br>INI Name: FENGINEER<br>VoiceAttack: EngFoeAttackCommand<br>Art: fengicon<br>Index: 56",
+        "filter": "fa inf t1"
+    },
+    "HUNTR": {
+        "image": "http://mentalomega.com/images/cameo/hntricon.png",
+        "name": "Huntress",
+        "description": "Name: Huntress<br>INI Name: HUNTR<br>VoiceAttack: HuntressAttackCommand<br>Art: hntricon<br>Index: 60",
+        "filter": "fa inf t2"
+    },
+    "CLAIR": {
+        "image": "http://mentalomega.com/images/cameo/clrvicon.png",
+        "name": "Clairvoyant",
+        "description": "Name: Clairvoyant<br>INI Name: CLAIR<br>VoiceAttack: ClairvoyantAttackCommand<br>Art: clrvicon<br>Index: 57",
+        "filter": "fa inf t3"
+    },
+    "SYNC": {
+        "image": "http://mentalomega.com/images/cameo/sronicon.png",
+        "name": "Syncronin",
+        "description": "Name: Syncronin<br>INI Name: SYNC<br>VoiceAttack: SyncroninAttackCommand<br>Art: sronicon<br>Index: 62",
+        "filter": "fa inf t3"
+    },
+    "ZORB": {
+        "image": "http://mentalomega.com/images/cameo/zorbicon.png",
+        "name": "Zorbtrotter",
+        "description": "Name: Zorbtrotter<br>INI Name: ZORB<br>VoiceAttack: ZorbtrotterAttackCommand<br>Art: zorbicon<br>Index: 64",
+        "filter": "fa inf t3"
+    },
+    "BANE": {
+        "image": "http://mentalomega.com/images/cameo/baneicon.png",
+        "name": "Giantsbane",
+        "description": "Name: Giantsbane<br>INI Name: BANE<br>VoiceAttack: GiantsbaneAttackCommand<br>Art: baneicon<br>Index: 66",
+        "filter": "fa inf t3"
+    },
+    "SIBFIN": {
+        "image": "http://mentalomega.com/images/cameo/finicon.png",
+        "name": "Fin",
+        "description": "Name: Fin<br>INI Name: SIBFIN<br>VoiceAttack: SibFinAttackCommand<br>Art: finicon<br>Index: 68",
+        "filter": "fa inf t3"
+    },
+    "SICALI": {
+        "image": "http://mentalomega.com/images/cameo/alizicon.png",
+        "name": "Alize",
+        "description": "Name: Alize<br>INI Name: SICALI<br>VoiceAttack: SibAlizeAttackCommand<br>Art: alizicon<br>Index: 69",
+        "filter": "fa inf t3"
+    },
+    "EUREKA": {
+        "image": "http://mentalomega.com/images/cameo/eureicon.png",
+        "name": "Eureka",
+        "description": "Name: Eureka<br>INI Name: EUREKA<br>VoiceAttack: EurekaAttackCommand<br>Art: eureicon<br>Index: 70",
+        "filter": "fa inf t3"
+    },
+    "URAGAN": {
+        "image": "http://mentalomega.com/images/cameo/kingicon.png",
+        "name": "Uragan",
+        "description": "Name: Uragan<br>INI Name: URAGAN<br>VoiceAttack: UraganAttackCommand<br>Art: kingicon<br>Index: 71",
+        "filter": "fa inf t3"
+    },
+    "MTNK": {
+        "image": "http://mentalomega.com/images/cameo/gtnkicon.png",
+        "name": "Cavalier Medium Tank",
+        "description": "Name: Cavalier Medium Tank<br>INI Name: MTNK<br>VoiceAttack: RottweilerAttackCommand<br>Art: gtnkicon<br>Index: 3",
+        "filter": "ga veh t1"
+    },
+    "ETNK": {
+        "image": "http://mentalomega.com/images/cameo/etnkicon.png",
+        "name": "Bulldog Light Tank",
+        "description": "Name: Bulldog Light Tank<br>INI Name: ETNK<br>VoiceAttack: GenAllVehicleAttackCommand<br>Art: etnkicon<br>Index: 5",
+        "filter": "ga veh t1"
+    },
+    "KTNK": {
+        "image": "http://mentalomega.com/images/cameo/predicon.png",
+        "name": "Kappa Hover Tank",
+        "description": "Name: Kappa Hover Tank<br>INI Name: KTNK<br>VoiceAttack: PredatorAttackCommand<br>Art: predicon<br>Index: 4",
+        "filter": "ga veh t1"
+    },
+    "ROBO": {
+        "image": "http://mentalomega.com/images/cameo/roboicon.png",
+        "name": "Robot Tank",
+        "description": "Name: Robot Tank<br>INI Name: ROBO<br>VoiceAttack: RobotTankAttackCommand<br>Art: roboicon<br>Index: 9",
+        "filter": "ga veh t1"
+    },
+    "FV": {
+        "image": "http://mentalomega.com/images/cameo/strkicon.png",
+        "name": "Stryker IFV",
+        "description": "Name: Stryker IFV<br>INI Name: FV<br>VoiceAttack: IFVAttackCommand<br>Art: strkicon<br>Index: 6",
+        "filter": "ga veh t1"
+    },
+    "AMC": {
+        "image": "http://mentalomega.com/images/cameo/archicon.png",
+        "name": "Archon AMC",
+        "description": "Name: Archon AMC<br>INI Name: AMC<br>VoiceAttack: SaberAttackCommand<br>Art: archicon<br>Index: 7",
+        "filter": "ga veh t1"
+    },
+    "TENGU": {
+        "image": "http://mentalomega.com/images/cameo/tsuricon.png",
+        "name": "Tsurugi Powersuit",
+        "description": "Name: Tsurugi Powersuit<br>INI Name: TENGU<br>VoiceAttack: SuitAttackCommand<br>Art: tsuricon<br>Index: 8",
+        "filter": "ga veh t1"
+    },
+    "LCRF": {
+        "image": "http://mentalomega.com/images/cameo/lcrficon.png",
+        "name": "Voyager Transport",
+        "description": "Name: Voyager Transport<br>INI Name: LCRF<br>VoiceAttack: HoverAlliedMove<br>Art: lcrficon<br>Index: 23",
+        "filter": "ga veh t1"
+    },
+    "SHAD": {
+        "image": "http://mentalomega.com/images/cameo/shadicon.png",
+        "name": "Stallion Transport",
+        "description": "Name: Stallion Transport<br>INI Name: SHAD<br>VoiceAttack: BlackOpsAttackCommand<br>Art: shadicon<br>Index: 10",
+        "filter": "ga veh t2"
+    },
+    "ORCA": {
+        "image": "http://mentalomega.com/images/cameo/falcicon.png",
+        "name": "Harrier",
+        "description": "Name: Harrier<br>INI Name: ORCA<br>VoiceAttack: IntruderAttackCommand<br>Art: falcicon<br>Index: 0",
+        "filter": "ga veh t2"
+    },
+    "STORM": {
+        "image": "http://mentalomega.com/images/cameo/strmicon.png",
+        "name": "Stormchild",
+        "description": "Name: Stormchild<br>INI Name: STORM<br>VoiceAttack: StormchildAttackCommand<br>Art: strmicon<br>Index: 1",
+        "filter": "ga veh t2"
+    },
+    "FORTRESS": {
+        "image": "http://mentalomega.com/images/cameo/stlhicon.png",
+        "name": "Barracuda",
+        "description": "Name: Barracuda<br>INI Name: FORTRESS<br>VoiceAttack: StealthBomberAttackCommand<br>Art: stlhicon<br>Index: 3",
+        "filter": "ga veh t3"
+    },
+    "HBIRD": {
+        "image": "http://mentalomega.com/images/cameo/hbrdicon.png",
+        "name": "Hummingbird",
+        "description": "Name: Hummingbird<br>INI Name: HBIRD<br>VoiceAttack: HummingbirdAttackCommand<br>Art: hbrdicon<br>Index: 36",
+        "filter": "ga veh t3"
+    },
+    "BEAG": {
+        "image": "http://mentalomega.com/images/cameo/beagicon.png",
+        "name": "Black Eagle",
+        "description": "Name: Black Eagle<br>INI Name: BEAG<br>VoiceAttack: BlackEagleAttackCommand<br>Art: beagicon<br>Index: 2",
+        "filter": "ga veh t2"
+    },
+    "COMA": {
+        "image": "http://mentalomega.com/images/cameo/warhicon.png",
+        "name": "Warhawk",
+        "description": "Name: Warhawk<br>INI Name: COMA<br>VoiceAttack: ComancheLaserAttack<br>Art: warhicon<br>Index: 12",
+        "filter": "ga veh t2"
+    },
+    "CRYO": {
+        "image": "http://mentalomega.com/images/cameo/crycicon.png",
+        "name": "Cryocopter",
+        "description": "Name: Cryocopter<br>INI Name: CRYO<br>VoiceAttack: CryocopterAttackCommand<br>Art: crycicon<br>Index: 103",
+        "filter": "ga veh t3"
+    },
+    "MGTK": {
+        "image": "http://mentalomega.com/images/cameo/rtnkicon.png",
+        "name": "Mirage Tank",
+        "description": "Name: Mirage Tank<br>INI Name: MGTK<br>VoiceAttack: MirageTankAttackCommand<br>Art: rtnkicon<br>Index: 11",
+        "filter": "ga veh t2"
+    },
+    "HOWI": {
+        "image": "http://mentalomega.com/images/cameo/zephicon.png",
+        "name": "Zephyr Artillery",
+        "description": "Name: Zephyr Artillery<br>INI Name: HOWI<br>VoiceAttack: ZephyrAttackCommand<br>Art: zephicon<br>Index: 13",
+        "filter": "ga veh t2"
+    },
+    "SREF": {
+        "image": "http://mentalomega.com/images/cameo/sreficon.png",
+        "name": "Prism Tank",
+        "description": "Name: Prism Tank<br>INI Name: SREF<br>VoiceAttack: PrismTankAttackCommand<br>Art: sreficon<br>Index: 17",
+        "filter": "ga veh t3"
+    },
+    "BASS": {
+        "image": "http://mentalomega.com/images/cameo/bassicon.png",
+        "name": "Athena Cannon",
+        "description": "Name: Athena Cannon<br>INI Name: BASS<br>VoiceAttack: AthenaArrayAttackCommand<br>Art: bassicon<br>Index: 14",
+        "filter": "ga veh t3"
+    },
+    "ABRM": {
+        "image": "http://mentalomega.com/images/cameo/abrmicon.png",
+        "name": "Abrams Tank",
+        "description": "Name: Abrams Tank<br>INI Name: ABRM<br>VoiceAttack: AbramsAttackCommand<br>Art: abrmicon<br>Index: 15",
+        "filter": "ga veh t3"
+    },
+    "BFRT": {
+        "image": "http://mentalomega.com/images/cameo/bfrticon.png",
+        "name": "Battle Tortoise",
+        "description": "Name: Battle Tortoise<br>INI Name: BFRT<br>VoiceAttack: BattleFortressAttackCommand<br>Art: bfrticon<br>Index: 22",
+        "filter": "ga veh t3"
+    },
+    "AMCV": {
+        "image": "http://mentalomega.com/images/cameo/mcvicon.png",
+        "name": "Allied Construction Vehicle",
+        "description": "Name: Allied Construction Vehicle<br>INI Name: AMCV<br>VoiceAttack: MCVAlliedMove<br>Art: mcvicon<br>Index: 0",
+        "filter": "ga veh t2"
+    },
+    "DEST": {
+        "image": "http://mentalomega.com/images/cameo/desticon.png",
+        "name": "Horizon Destroyer",
+        "description": "Name: Horizon Destroyer<br>INI Name: DEST<br>VoiceAttack: GenAllWaterAttackCommand<br>Art: desticon<br>Index: 24",
+        "filter": "ga veh t1"
+    },
+    "SIREN": {
+        "image": "http://mentalomega.com/images/cameo/sirnicon.png",
+        "name": "Siren Frigate",
+        "description": "Name: Siren Frigate<br>INI Name: SIREN<br>VoiceAttack: SirenAttackCommand<br>Art: sirnicon<br>Index: 216",
+        "filter": "ga veh t3"
+    },
+    "DLPH": {
+        "image": "http://mentalomega.com/images/cameo/dlphicon.png",
+        "name": "Dolphin",
+        "description": "Name: Dolphin<br>INI Name: DLPH<br>VoiceAttack: DolphinAttackCommand<br>Art: dlphicon<br>Index: 25",
+        "filter": "ga veh t2"
+    },
+    "AEGIS": {
+        "image": "http://mentalomega.com/images/cameo/agisicon.png",
+        "name": "Aegis Cruiser",
+        "description": "Name: Aegis Cruiser<br>INI Name: AEGIS<br>VoiceAttack: AegisAttackCommand<br>Art: agisicon<br>Index: 26",
+        "filter": "ga veh t2"
+    },
+    "CARRIER": {
+        "image": "http://mentalomega.com/images/cameo/carricon.png",
+        "name": "Enterprise Aircraft Carrier",
+        "description": "Name: Enterprise Aircraft Carrier<br>INI Name: CARRIER<br>VoiceAttack: AircraftCarrierAttackCommand<br>Art: carricon<br>Index: 27",
+        "filter": "ga veh t3"
+    },
+    "HCRUIS": {
+        "image": "http://mentalomega.com/images/cameo/hcrsicon.png",
+        "name": "Trident Battleship",
+        "description": "Name: Trident Battleship<br>INI Name: HCRUIS<br>VoiceAttack: CruiserAttackCommand<br>Art: hcrsicon<br>Index: 28",
+        "filter": "ga veh t3"
+    },
+    "CMIN": {
+        "image": "http://mentalomega.com/images/cameo/ahrvicon.png",
+        "name": "Chrono Miner",
+        "description": "Name: Chrono Miner<br>INI Name: CMIN<br>VoiceAttack: ChronoMinerMove<br>Art: ahrvicon<br>Index: 2",
+        "filter": "ga veh t1"
+    },
+    "AERO": {
+        "image": "http://mentalomega.com/images/cameo/aeroicon.png",
+        "name": "Aeroblaze",
+        "description": "Name: Aeroblaze<br>INI Name: AERO<br>VoiceAttack: AeroblazeAttackCommand<br>Art: aeroicon<br>Index: 16",
+        "filter": "ga veh t3"
+    },
+    "VCARR": {
+        "image": "http://mentalomega.com/images/cameo/hailicon.png",
+        "name": "Hailstorm",
+        "description": "Name: Hailstorm<br>INI Name: VCARR<br>VoiceAttack: HailstormAttackCommand<br>Art: hailicon<br>Index: 20",
+        "filter": "ga veh t3"
+    },
+    "BLZZ": {
+        "image": "http://mentalomega.com/images/cameo/blzzicon.png",
+        "name": "Blizzard Tank",
+        "description": "Name: Blizzard Tank<br>INI Name: BLZZ<br>VoiceAttack: BlizzardAttackCommand<br>Art: blzzicon<br>Index: 21",
+        "filter": "ga veh t3"
+    },
+    "CHRTNK": {
+        "image": "http://mentalomega.com/images/cameo/ctnkicon.png",
+        "name": "Charon Tank",
+        "description": "Name: Charon Tank<br>INI Name: CHRTNK<br>VoiceAttack: PrisonAttackCommand<br>Art: ctnkicon<br>Index: 18",
+        "filter": "ga veh t3"
+    },
+    "THOR": {
+        "image": "http://mentalomega.com/images/cameo/thoricon.png",
+        "name": "Thor Gunship",
+        "description": "Name: Thor Gunship<br>INI Name: THOR<br>VoiceAttack: ThorAttackCommand<br>Art: thoricon<br>Index: 19",
+        "filter": "ga veh t3"
+    },
+    "DRON": {
+        "image": "http://mentalomega.com/images/cameo/drncicon.png",
+        "name": "Terror Drone",
+        "description": "Name: Terror Drone<br>INI Name: DRON<br>VoiceAttack: TerrorDroneAttackCommand<br>Art: drncicon<br>Index: 38",
+        "filter": "na veh t1"
+    },
+    "HTK": {
+        "image": "http://mentalomega.com/images/cameo/htkicon.png",
+        "name": "Halftrack",
+        "description": "Name: Halftrack<br>INI Name: HTK<br>VoiceAttack: FlakTrackAttackCommand<br>Art: htkicon<br>Index: 37",
+        "filter": "na veh t1"
+    },
+    "SCAR": {
+        "image": "http://mentalomega.com/images/cameo/lynxicon.png",
+        "name": "Tigr APC",
+        "description": "Name: Tigr APC<br>INI Name: SCAR<br>VoiceAttack: TigrAttackCommand<br>Art: lynxicon<br>Index: 32",
+        "filter": "na veh t1"
+    },
+    "HTNK": {
+        "image": "http://mentalomega.com/images/cameo/htnkicon.png",
+        "name": "Rhino Heavy Tank",
+        "description": "Name: Rhino Heavy Tank<br>INI Name: HTNK<br>VoiceAttack: GenSovVehicleAttackCommand<br>Art: htnkicon<br>Index: 34",
+        "filter": "na veh t1"
+    },
+    "CTNK": {
+        "image": "http://mentalomega.com/images/cameo/qtnkicon.png",
+        "name": "Qilin Assault Tank",
+        "description": "Name: Qilin Assault Tank<br>INI Name: CTNK<br>VoiceAttack: TigerTankAttackCommand<br>Art: qtnkicon<br>Index: 36",
+        "filter": "na veh t1"
+    },
+    "JTNK": {
+        "image": "http://mentalomega.com/images/cameo/jtnkicon.png",
+        "name": "Jaguar Battle Tank",
+        "description": "Name: Jaguar Battle Tank<br>INI Name: JTNK<br>VoiceAttack: JaguarTankAttackCommand<br>Art: jtnkicon<br>Index: 35",
+        "filter": "na veh t1"
+    },
+    "SAPC": {
+        "image": "http://mentalomega.com/images/cameo/sapcicon.png",
+        "name": "Zubr Transport",
+        "description": "Name: Zubr Transport<br>INI Name: SAPC<br>VoiceAttack: HoverSovietMove<br>Art: sapcicon<br>Index: 55",
+        "filter": "na veh t1"
+    },
+    "V3": {
+        "image": "http://mentalomega.com/images/cameo/v3icon.png",
+        "name": "Scud Launcher",
+        "description": "Name: Scud Launcher<br>INI Name: V3<br>VoiceAttack: V3AttackCommand<br>Art: v3icon<br>Index: 44",
+        "filter": "na veh t3"
+    },
+    "TTNK": {
+        "image": "http://mentalomega.com/images/cameo/ttnkicon.png",
+        "name": "Tesla Cruiser",
+        "description": "Name: Tesla Cruiser<br>INI Name: TTNK<br>VoiceAttack: TeslaTankAttackCommand<br>Art: ttnkicon<br>Index: 45",
+        "filter": "na veh t3"
+    },
+    "FDRON": {
+        "image": "http://mentalomega.com/images/cameo/fdrnicon.png",
+        "name": "Fury Drone",
+        "description": "Name: Fury Drone<br>INI Name: FDRON<br>VoiceAttack: FuryDroneAttackCommand<br>Art: fdrnicon<br>Index: 101",
+        "filter": "na veh t3"
+    },
+    "SCHP": {
+        "image": "http://mentalomega.com/images/cameo/schpicon.png",
+        "name": "Vulture",
+        "description": "Name: Vulture<br>INI Name: SCHP<br>VoiceAttack: SeigeChopperAttackAir<br>Art: schpicon<br>Index: 40",
+        "filter": "na veh t3"
+    },
+    "EDRN": {
+        "image": "http://mentalomega.com/images/cameo/edrnicon.png",
+        "name": "Dragonfly",
+        "description": "Name: Dragonfly<br>INI Name: EDRN<br>VoiceAttack: DragonflyMove<br>Art: edrnicon<br>Index: 50",
+        "filter": "na veh t3"
+    },
+    "WOLF": {
+        "image": "http://mentalomega.com/images/cameo/wolficon.png",
+        "name": "Wolfhound",
+        "description": "Name: Wolfhound<br>INI Name: WOLF<br>VoiceAttack: WolfhoundMissileAttack<br>Art: wolficon<br>Index: 46",
+        "filter": "na veh t3"
+    },
+    "ZEP": {
+        "image": "http://mentalomega.com/images/cameo/zepicon.png",
+        "name": "Kirov Airship",
+        "description": "Name: Kirov Airship<br>INI Name: ZEP<br>VoiceAttack: KirovAttackCommand<br>Art: zepicon<br>Index: 54",
+        "filter": "na veh t3"
+    },
+    "RAVA": {
+        "image": "http://mentalomega.com/images/cameo/ravaicon.png",
+        "name": "Drakuv Prison Vehicle",
+        "description": "Name: Drakuv Prison Vehicle<br>INI Name: RAVA<br>VoiceAttack: DrakuvAttackCommand<br>Art: ravaicon<br>Index: 51",
+        "filter": "na veh t3"
+    },
+    "SENT": {
+        "image": "http://mentalomega.com/images/cameo/senticon.png",
+        "name": "Sentinel",
+        "description": "Name: Sentinel<br>INI Name: SENT<br>VoiceAttack: SentinelAttackCommand<br>Art: senticon<br>Index: 49",
+        "filter": "na veh t3"
+    },
+    "EMPR": {
+        "image": "http://mentalomega.com/images/cameo/empricon.png",
+        "name": "Nuwa Cannon",
+        "description": "Name: Nuwa Cannon<br>INI Name: EMPR<br>VoiceAttack: DragonAttackCommand<br>Art: empricon<br>Index: 48",
+        "filter": "na veh t3"
+    },
+    "BOREK": {
+        "image": "http://mentalomega.com/images/cameo/boriicon.png",
+        "name": "Borillo",
+        "description": "Name: Borillo<br>INI Name: BOREK<br>VoiceAttack: BorilloAttackCommand<br>Art: boriicon<br>Index: 39",
+        "filter": "na veh t2"
+    },
+    "ARMA": {
+        "image": "http://mentalomega.com/images/cameo/armaicon.png",
+        "name": "Armadillo",
+        "description": "Name: Armadillo<br>INI Name: ARMA<br>VoiceAttack: BorilloAttackCommand<br>Art: armaicon<br>Index: 62",
+        "filter": "na veh t2"
+    },
+    "DUST": {
+        "image": "http://mentalomega.com/images/cameo/dusticon.png",
+        "name": "Dustdevil",
+        "description": "Name: Dustdevil<br>INI Name: DUST<br>VoiceAttack: DustdevilAttackCommand<br>Art: dusticon<br>Index: 35",
+        "filter": "na veh t2"
+    },
+    "FOX": {
+        "image": "http://mentalomega.com/images/cameo/foxicon.png",
+        "name": "Foxtrot",
+        "description": "Name: Foxtrot<br>INI Name: FOX<br>VoiceAttack: MIGFoxAttackCommand<br>Art: foxicon<br>Index: 4",
+        "filter": "na veh t2"
+    },
+    "CNTR": {
+        "image": "http://mentalomega.com/images/cameo/centicon.png",
+        "name": "Centurion Siege Crawler",
+        "description": "Name: Centurion Siege Crawler<br>INI Name: CNTR<br>VoiceAttack: CenturionAttackCommand<br>Art: centicon<br>Index: 52",
+        "filter": "na veh t3"
+    },
+    "SMCV": {
+        "image": "http://mentalomega.com/images/cameo/smcvicon.png",
+        "name": "Soviet Construction Vehicle",
+        "description": "Name: Soviet Construction Vehicle<br>INI Name: SMCV<br>VoiceAttack: MCVSovietMove<br>Art: smcvicon<br>Index: 31",
+        "filter": "na veh t2"
+    },
+    "MWF": {
+        "image": "http://mentalomega.com/images/cameo/mwficon.png",
+        "name": "Stalin's Fist",
+        "description": "Name: Stalin's Fist<br>INI Name: MWF<br>VoiceAttack: MWFAttackCommand<br>Art: mwficon<br>Index: 53",
+        "filter": "na veh t3"
+    },
+    "SWLF": {
+        "image": "http://mentalomega.com/images/cameo/swlficon.png",
+        "name": "Seawolf Gunboat",
+        "description": "Name: Seawolf Gunboat<br>INI Name: SWLF<br>VoiceAttack: SeawolfAttackGround<br>Art: swlficon<br>Index: 57",
+        "filter": "na veh t2"
+    },
+    "DBOAT": {
+        "image": "http://mentalomega.com/images/cameo/dboticon.png",
+        "name": "Mosquito Demoboat",
+        "description": "Name: Mosquito Demoboat<br>INI Name: DBOAT<br>VoiceAttack: DBoatAttackCommand<br>Art: dboticon<br>Index: 215",
+        "filter": "na veh t3"
+    },
+    "SUB": {
+        "image": "http://mentalomega.com/images/cameo/subicon.png",
+        "name": "Typhoon Attack Sub",
+        "description": "Name: Typhoon Attack Sub<br>INI Name: SUB<br>VoiceAttack: TyphoonSubAttackCommand<br>Art: subicon<br>Index: 56",
+        "filter": "na veh t1"
+    },
+    "DRED": {
+        "image": "http://mentalomega.com/images/cameo/dredicon.png",
+        "name": "Kuznetsov Dreadnought",
+        "description": "Name: Kuznetsov Dreadnought<br>INI Name: DRED<br>VoiceAttack: GenSovWaterAttackCommand<br>Art: dredicon<br>Index: 58",
+        "filter": "na veh t3"
+    },
+    "AKULA": {
+        "image": "http://mentalomega.com/images/cameo/akulicon.png",
+        "name": "Akula Missile Sub",
+        "description": "Name: Akula Missile Sub<br>INI Name: AKULA<br>VoiceAttack: AkulaAttackCommand<br>Art: akulicon<br>Index: 59",
+        "filter": "na veh t3"
+    },
+    "HARV": {
+        "image": "http://mentalomega.com/images/cameo/harvicon.png",
+        "name": "War Miner",
+        "description": "Name: War Miner<br>INI Name: HARV<br>VoiceAttack: WarMinerAttackCommand<br>Art: harvicon<br>Index: 33",
+        "filter": "na veh t1"
+    },
+    "BURA": {
+        "image": "http://mentalomega.com/images/cameo/buraicon.png",
+        "name": "Buratino",
+        "description": "Name: Buratino<br>INI Name: BURA<br>VoiceAttack: BuratinoAttackCommand<br>Art: buraicon<br>Index: 43",
+        "filter": "na veh t3"
+    },
+    "APOC": {
+        "image": "http://mentalomega.com/images/cameo/cataicon.png",
+        "name": "Catastrophe Tank",
+        "description": "Name: Catastrophe Tank<br>INI Name: APOC<br>VoiceAttack: CatastropheAttackCommand<br>Art: cataicon<br>Index: 47",
+        "filter": "na veh t3"
+    },
+    "BGGY": {
+        "image": "http://mentalomega.com/images/cameo/bggyicon.png",
+        "name": "Bomb Buggy",
+        "description": "Name: Bomb Buggy<br>INI Name: BGGY<br>VoiceAttack: DemoBuggyAttackCommand<br>Art: bggyicon<br>Index: 41",
+        "filter": "na veh t2"
+    },
+    "DTRUCK": {
+        "image": "http://mentalomega.com/images/cameo/trkaicon.png",
+        "name": "Demolition Truck",
+        "description": "Name: Demolition Truck<br>INI Name: DTRUCK<br>VoiceAttack: DemoTruckAttackCommand<br>Art: trkaicon<br>Index: 42",
+        "filter": "na veh t2"
+    },
+    "LTNK": {
+        "image": "http://mentalomega.com/images/cameo/ltnkicon.png",
+        "name": "Lasher Light Tank",
+        "description": "Name: Lasher Light Tank<br>INI Name: LTNK<br>VoiceAttack: LasherTankAttackCommand<br>Art: ltnkicon<br>Index: 68",
+        "filter": "ya veh t1"
+    },
+    "QTNK": {
+        "image": "http://mentalomega.com/images/cameo/manticon.png",
+        "name": "Mantis Scrap Tank",
+        "description": "Name: Mantis Scrap Tank<br>INI Name: QTNK<br>VoiceAttack: MantisTankAttackCommand<br>Art: manticon<br>Index: 70",
+        "filter": "ya veh t1"
+    },
+    "STNK": {
+        "image": "http://mentalomega.com/images/cameo/stnkicon.png",
+        "name": "Opus Custom Tank",
+        "description": "Name: Opus Custom Tank<br>INI Name: STNK<br>VoiceAttack: OpusAttackCommand<br>Art: stnkicon<br>Index: 69",
+        "filter": "ya veh t1"
+    },
+    "TRIKE": {
+        "image": "http://mentalomega.com/images/cameo/trikicon.png",
+        "name": "Speeder Trike",
+        "description": "Name: Speeder Trike<br>INI Name: TRIKE<br>VoiceAttack: SpeederAttackCommand<br>Art: trikicon<br>Index: 73",
+        "filter": "ya veh t2"
+    },
+    "COYO": {
+        "image": "http://mentalomega.com/images/cameo/oxidicon.png",
+        "name": "Oxidizer",
+        "description": "Name: Oxidizer<br>INI Name: COYO<br>VoiceAttack: OxidizerAttackCommand<br>Art: oxidicon<br>Index: 78",
+        "filter": "ya veh t3"
+    },
+    "STING": {
+        "image": "http://mentalomega.com/images/cameo/stngicon.png",
+        "name": "Stinger",
+        "description": "Name: Stinger<br>INI Name: STING<br>VoiceAttack: StingerAttackCommand<br>Art: stngicon<br>Index: 72",
+        "filter": "ya veh t1"
+    },
+    "YTNK": {
+        "image": "http://mentalomega.com/images/cameo/ytnkicon.png",
+        "name": "Gatling Tank",
+        "description": "Name: Gatling Tank<br>INI Name: YTNK<br>VoiceAttack: GattlingTankAttackCommand<br>Art: ytnkicon<br>Index: 71",
+        "filter": "ya veh t1"
+    },
+    "QUAD": {
+        "image": "http://mentalomega.com/images/cameo/hzqdicon.png",
+        "name": "Hazequad",
+        "description": "Name: Hazequad<br>INI Name: QUAD<br>VoiceAttack: HazequadMove<br>Art: hzqdicon<br>Index: 67",
+        "filter": "ya veh t3"
+    },
+    "DRIL": {
+        "image": "http://mentalomega.com/images/cameo/drilicon.png",
+        "name": "Driller APC",
+        "description": "Name: Driller APC<br>INI Name: DRIL<br>VoiceAttack: DrillerMove<br>Art: drilicon<br>Index: 74",
+        "filter": "ya veh t2"
+    },
+    "TELE": {
+        "image": "http://mentalomega.com/images/cameo/teleicon.png",
+        "name": "Magnetron",
+        "description": "Name: Magnetron<br>INI Name: TELE<br>VoiceAttack: MagnetronAttackCommand<br>Art: teleicon<br>Index: 77",
+        "filter": "ya veh t3"
+    },
+    "MIND": {
+        "image": "http://mentalomega.com/images/cameo/mindicon.png",
+        "name": "Mastermind",
+        "description": "Name: Mastermind<br>INI Name: MIND<br>VoiceAttack: MasterMindAttackCommand<br>Art: mindicon<br>Index: 84",
+        "filter": "ya veh t3"
+    },
+    "DEVO": {
+        "image": "http://mentalomega.com/images/cameo/colsicon.png",
+        "name": "Colossus",
+        "description": "Name: Colossus<br>INI Name: DEVO<br>VoiceAttack: DevourerAttackCommand<br>Art: colsicon<br>Index: 81",
+        "filter": "ya veh t3"
+    },
+    "YAHCR": {
+        "image": "http://mentalomega.com/images/cameo/gehnicon.png",
+        "name": "Gehenna Platform",
+        "description": "Name: Gehenna Platform<br>INI Name: YAHCR<br>VoiceAttack: GaiaPlatformAttackCommand<br>Art: gehnicon<br>Index: 83",
+        "filter": "ya veh t3"
+    },
+    "PLAG": {
+        "image": "http://mentalomega.com/images/cameo/plagicon.png",
+        "name": "Plague Splatter",
+        "description": "Name: Plague Splatter<br>INI Name: PLAG<br>VoiceAttack: PlagueSplatterAttackCommand<br>Art: plagicon<br>Index: 80",
+        "filter": "ya veh t3"
+    },
+    "SHADOW": {
+        "image": "http://mentalomega.com/images/cameo/shdwicon.png",
+        "name": "Shadow Tank",
+        "description": "Name: Shadow Tank<br>INI Name: SHADOW<br>VoiceAttack: ShadowAttackCommand<br>Art: shdwicon<br>Index: 75",
+        "filter": "ya veh t2"
+    },
+    "DISK": {
+        "image": "http://mentalomega.com/images/cameo/diskicon.png",
+        "name": "Invader",
+        "description": "Name: Invader<br>INI Name: DISK<br>VoiceAttack: FloatingDiscAttackCommand<br>Art: diskicon<br>Index: 85",
+        "filter": "ya veh t2"
+    },
+    "RUINER": {
+        "image": "http://mentalomega.com/images/cameo/ruinicon.png",
+        "name": "Ruiner",
+        "description": "Name: Ruiner<br>INI Name: RUINER<br>VoiceAttack: RuinerAttackCommand<br>Art: ruinicon<br>Index: 226",
+        "filter": "ya veh t3"
+    },
+    "BLIGHT": {
+        "image": "http://mentalomega.com/images/cameo/bligicon.png",
+        "name": "Dybbuk-Attacker",
+        "description": "Name: Dybbuk-Attacker<br>INI Name: BLIGHT<br>VoiceAttack: BlightAttackCommand<br>Art: bligicon<br>Index: 27",
+        "filter": "ya veh t2"
+    },
+    "VENOM": {
+        "image": "http://mentalomega.com/images/cameo/evolicon.png",
+        "name": "Dybbuk-Evolver",
+        "description": "Name: Dybbuk-Evolver<br>INI Name: VENOM<br>VoiceAttack: PurgerAttackCommand<br>Art: evolicon<br>Index: 28",
+        "filter": "ya veh t3"
+    },
+    "BASIL": {
+        "image": "http://mentalomega.com/images/cameo/basiicon.png",
+        "name": "Basilisk",
+        "description": "Name: Basilisk<br>INI Name: BASIL<br>VoiceAttack: BasiliskAttackCommand<br>Art: basiicon<br>Index: 82",
+        "filter": "ya veh t3"
+    },
+    "GOTTER": {
+        "image": "http://mentalomega.com/images/cameo/irklicon.png",
+        "name": "Aerial Fortress Irkalla",
+        "description": "Name: Aerial Fortress Irkalla<br>INI Name: GOTTER<br>VoiceAttack: IrkallaAttackCommand<br>Art: irklicon<br>Index: 90",
+        "filter": "ya veh t3"
+    },
+    "SMIN": {
+        "image": "http://mentalomega.com/images/cameo/wrigicon.png",
+        "name": "War Rig",
+        "description": "Name: War Rig<br>INI Name: SMIN<br>VoiceAttack: SlaveMinerAttackCommand<br>Art: wrigicon<br>Index: 283",
+        "filter": "ya veh t3"
+    },
+    "PCV": {
+        "image": "http://mentalomega.com/images/cameo/ypcvicon.png",
+        "name": "Epsilon Construction Vehicle",
+        "description": "Name: Epsilon Construction Vehicle<br>INI Name: PCV<br>VoiceAttack: MCVYuriMove<br>Art: ypcvicon<br>Index: 63",
+        "filter": "ya veh t2"
+    },
+    "YHVR": {
+        "image": "http://mentalomega.com/images/cameo/yhvricon.png",
+        "name": "Mandjet Transport",
+        "description": "Name: Mandjet Transport<br>INI Name: YHVR<br>VoiceAttack: HoverYuriMove<br>Art: yhvricon<br>Index: 86",
+        "filter": "ya veh t1"
+    },
+    "SLED": {
+        "image": "http://mentalomega.com/images/cameo/ysubicon.png",
+        "name": "Piranha Minisub",
+        "description": "Name: Piranha Minisub<br>INI Name: SLED<br>VoiceAttack: PiranhaAttackCommand<br>Art: ysubicon<br>Index: 87",
+        "filter": "ya veh t1"
+    },
+    "SQD": {
+        "image": "http://mentalomega.com/images/cameo/sqdicon.png",
+        "name": "Giant Squid",
+        "description": "Name: Giant Squid<br>INI Name: SQD<br>VoiceAttack: SquidAttackCommand<br>Art: sqdicon<br>Index: 88",
+        "filter": "ya veh t2"
+    },
+    "BSUB": {
+        "image": "http://mentalomega.com/images/cameo/reshicon.png",
+        "name": "Resheph Ballistic Sub",
+        "description": "Name: Resheph Ballistic Sub<br>INI Name: BSUB<br>VoiceAttack: ReshephAttackCommand<br>Art: reshicon<br>Index: 89",
+        "filter": "ya veh t3"
+    },
+    "NAUT": {
+        "image": "http://mentalomega.com/images/cameo/nauticon.png",
+        "name": "Nautilus Magnetic Sub",
+        "description": "Name: Nautilus Magnetic Sub<br>INI Name: NAUT<br>VoiceAttack: NautilusAttackCommand<br>Art: nauticon<br>Index: 91",
+        "filter": "ya veh t3"
+    },
+    "YMIN": {
+        "image": "http://mentalomega.com/images/cameo/yminicon.png",
+        "name": "Ghost Miner",
+        "description": "Name: Ghost Miner<br>INI Name: YMIN<br>VoiceAttack: GhostMinerMove<br>Art: yminicon<br>Index: 66",
+        "filter": "ya veh t1"
+    },
+    "SCAV": {
+        "image": "http://mentalomega.com/images/cameo/scavicon.png",
+        "name": "Tyrant",
+        "description": "Name: Tyrant<br>INI Name: SCAV<br>VoiceAttack: ScavengerAttackCommand<br>Art: scavicon<br>Index: 79",
+        "filter": "ya veh t3"
+    },
+    "MARA": {
+        "image": "http://mentalomega.com/images/cameo/maraicon.png",
+        "name": "Marauder",
+        "description": "Name: Marauder<br>INI Name: MARA<br>VoiceAttack: MarauderAttackCommand<br>Art: maraicon<br>Index: 76",
+        "filter": "ya veh t2"
+    },
+    "ROACH": {
+        "image": "http://mentalomega.com/images/cameo/roacicon.png",
+        "name": "Bison Combat Tank",
+        "description": "Name: Bison Combat Tank<br>INI Name: ROACH<br>VoiceAttack: BisonTankAttackCommand<br>Art: roacicon<br>Index: 174",
+        "filter": "fa veh t1"
+    },
+    "DRACO": {
+        "image": "http://mentalomega.com/images/cameo/dracicon.png",
+        "name": "Draco Light Tank",
+        "description": "Name: Draco Light Tank<br>INI Name: DRACO<br>VoiceAttack: DracoTankAttackCommand<br>Art: dracicon<br>Index: 175",
+        "filter": "fa veh t1"
+    },
+    "JACKAL": {
+        "image": "http://mentalomega.com/images/cameo/jackicon.png",
+        "name": "Jackal Racer",
+        "description": "Name: Jackal Racer<br>INI Name: JACKAL<br>VoiceAttack: JackalAttackCommand<br>Art: jackicon<br>Index: 169",
+        "filter": "fa veh t1"
+    },
+    "TERA": {
+        "image": "http://mentalomega.com/images/cameo/teraicon.png",
+        "name": "Teratorn",
+        "description": "Name: Teratorn<br>INI Name: TERA<br>VoiceAttack: LilZapperAttackCommand<br>Art: teraicon<br>Index: 196",
+        "filter": "fa veh t1"
+    },
+    "BUZZ": {
+        "image": "http://mentalomega.com/images/cameo/buzzicon.png",
+        "name": "Buzzard",
+        "description": "Name: Buzzard<br>INI Name: BUZZ<br>VoiceAttack: BuzzardAttackCommand<br>Art: buzzicon<br>Index: 93",
+        "filter": "fa veh t2"
+    },
+    "RACC": {
+        "image": "http://mentalomega.com/images/cameo/raccicon.png",
+        "name": "Raccoon",
+        "description": "Name: Raccoon<br>INI Name: RACC<br>VoiceAttack: RaccoonAttackCommand<br>Art: raccicon<br>Index: 186",
+        "filter": "fa veh t2"
+    },
+    "COON": {
+        "image": "http://mentalomega.com/images/cameo/coonicon.png",
+        "name": "Hovracoon",
+        "description": "Name: Hovracoon<br>INI Name: COON<br>VoiceAttack: HovracoonAttackCommand<br>Art: coonicon<br>Index: 187",
+        "filter": "fa veh t2"
+    },
+    "MSA": {
+        "image": "http://mentalomega.com/images/cameo/sodaicon.png",
+        "name": "SODAR Array",
+        "description": "Name: SODAR Array<br>INI Name: MSA<br>VoiceAttack: MSAMove<br>Art: sodaicon<br>Index: 198",
+        "filter": "fa veh t2"
+    },
+    "ORCIN": {
+        "image": "http://mentalomega.com/images/cameo/orcnicon.png",
+        "name": "Orcinus Waveshaper",
+        "description": "Name: Orcinus Waveshaper<br>INI Name: ORCIN<br>Art: orcnicon<br>Index: 197",
+        "filter": "fa veh t3"
+    },
+    "TARCHIA": {
+        "image": "http://mentalomega.com/images/cameo/tarcicon.png",
+        "name": "Tarchia Cannon",
+        "description": "Name: Tarchia Cannon<br>INI Name: TARCHIA<br>VoiceAttack: TarchiaAttackCommand<br>Art: tarcicon<br>Index: 202",
+        "filter": "fa veh t3"
+    },
+    "MAD": {
+        "image": "http://mentalomega.com/images/cameo/mdmnicon.png",
+        "name": "M.A.D.M.A.N.",
+        "description": "Name: M.A.D.M.A.N.<br>INI Name: MAD<br>VoiceAttack: MADMANMove<br>Art: mdmnicon<br>Index: 181",
+        "filter": "fa veh t3"
+    },
+    "SHRAY": {
+        "image": "http://mentalomega.com/images/cameo/shryicon.png",
+        "name": "Shadray Torch Tank",
+        "description": "Name: Shadray Torch Tank<br>INI Name: SHRAY<br>VoiceAttack: BasswaveAttackCommand<br>Art: shryicon<br>Index: 199",
+        "filter": "fa veh t3"
+    },
+    "FMCV": {
+        "image": "http://mentalomega.com/images/cameo/fmcvicon.png",
+        "name": "Foehn Construction Vehicle",
+        "description": "Name: Foehn Construction Vehicle<br>INI Name: FMCV<br>VoiceAttack: MCVFoehnMove<br>Art: fmcvicon<br>Index: 92",
+        "filter": "fa veh t2"
+    },
+    "VIPER": {
+        "image": "http://mentalomega.com/images/cameo/ptericon.png",
+        "name": "Pteranodon",
+        "description": "Name: Pteranodon<br>INI Name: VIPER<br>VoiceAttack: PteranodonAttackCommand<br>Art: ptericon<br>Index: 178",
+        "filter": "fa veh t3"
+    },
+    "DIVER": {
+        "image": "http://mentalomega.com/images/cameo/divricon.png",
+        "name": "Diverbee",
+        "description": "Name: Diverbee<br>INI Name: DIVER<br>VoiceAttack: DiverbeeAttackCommand<br>Art: divricon<br>Index: 214",
+        "filter": "fa veh t3"
+    },
+    "SEAT": {
+        "image": "http://mentalomega.com/images/cameo/seaticon.png",
+        "name": "Watercat Transport",
+        "description": "Name: Watercat Transport<br>INI Name: SEAT<br>VoiceAttack: WatercatMove<br>Art: seaticon<br>Index: 173",
+        "filter": "fa veh t1"
+    },
+    "SWORD": {
+        "image": "http://mentalomega.com/images/cameo/swrdicon.png",
+        "name": "Swordfish",
+        "description": "Name: Swordfish<br>INI Name: SWORD<br>VoiceAttack: SwordfishAttackCommand<br>Art: swrdicon<br>Index: 206",
+        "filter": "fa veh t1"
+    },
+    "SHARK": {
+        "image": "http://mentalomega.com/images/cameo/shrkicon.png",
+        "name": "Angelshark",
+        "description": "Name: Angelshark<br>INI Name: SHARK<br>VoiceAttack: AngelsharkAttackCommand<br>Art: shrkicon<br>Index: 207",
+        "filter": "fa veh t2"
+    },
+    "MANTA": {
+        "image": "http://mentalomega.com/images/cameo/whipicon.png",
+        "name": "Whipray",
+        "description": "Name: Whipray<br>INI Name: MANTA<br>VoiceAttack: MantaAttackCommand<br>Art: whipicon<br>Index: 204",
+        "filter": "fa veh t2"
+    },
+    "LEVI": {
+        "image": "http://mentalomega.com/images/cameo/leviicon.png",
+        "name": "Leviathan Helicarrier",
+        "description": "Name: Leviathan Helicarrier<br>INI Name: LEVI<br>VoiceAttack: LeviathanAttackCommand<br>Art: leviicon<br>Index: 210",
+        "filter": "fa veh t3"
+    },
+    "MEGA": {
+        "image": "http://mentalomega.com/images/cameo/mgldicon.png",
+        "name": "Megalodon",
+        "description": "Name: Megalodon<br>INI Name: MEGA<br>VoiceAttack: MegalodonAttackCommand<br>Art: mgldicon<br>Index: 183",
+        "filter": "fa veh t3"
+    },
+    "ROADR": {
+        "image": "http://mentalomega.com/images/cameo/rdrnicon.png",
+        "name": "Roadrunner",
+        "description": "Name: Roadrunner<br>INI Name: ROADR<br>VoiceAttack: RoadrunnerAttackCommand<br>Art: rdrnicon<br>Index: 190",
+        "filter": "fa veh t2"
+    },
+    "PROME": {
+        "image": "http://mentalomega.com/images/cameo/masticon.png",
+        "name": "Mastodon",
+        "description": "Name: Mastodon<br>INI Name: PROME<br>VoiceAttack: MastodonAttackCommand<br>Art: masticon<br>Index: 170",
+        "filter": "fa veh t3"
+    },
+    "BOID": {
+        "image": "http://mentalomega.com/images/cameo/boidicon.png",
+        "name": "Boidmachine",
+        "description": "Name: Boidmachine<br>INI Name: BOID<br>VoiceAttack: BoidmachineAttackCommand<br>Art: boidicon<br>Index: 205",
+        "filter": "fa veh t3"
+    },
+    "GHTNK": {
+        "image": "http://mentalomega.com/images/cameo/gharicon.png",
+        "name": "Gharial",
+        "description": "Name: Gharial<br>INI Name: GHTNK<br>VoiceAttack: GharialAttackCommand<br>Art: gharicon<br>Index: 185",
+        "filter": "fa veh t3"
+    },
+    "CYCL": {
+        "image": "http://mentalomega.com/images/cameo/ccloicon.png",
+        "name": "Cyclops Walker",
+        "description": "Name: Cyclops Walker<br>INI Name: CYCL<br>VoiceAttack: CyclopsAttackCommand<br>Art: ccloicon<br>Index: 189",
+        "filter": "fa veh t1"
+    },
+    "NMIN": {
+        "image": "http://mentalomega.com/images/cameo/nminicon.png",
+        "name": "Minermite",
+        "description": "Name: Minermite<br>INI Name: NMIN<br>VoiceAttack: MinermiteRepair<br>Art: nminicon<br>Index: 177",
+        "filter": "fa veh t1"
+    },
+    "SWPR": {
+        "image": "http://mentalomega.com/images/cameo/swpricon.png",
+        "name": "Sweeper",
+        "description": "Name: Sweeper<br>INI Name: SWPR<br>VoiceAttack: SweeperAttackCommand<br>Art: swpricon<br>Index: 193",
+        "filter": "fa veh t2"
+    },
+    "CONF": {
+        "image": "http://mentalomega.com/images/cameo/irrticon.png",
+        "name": "Irritator",
+        "description": "Name: Irritator<br>INI Name: CONF<br>VoiceAttack: IrritatorAttackCommand<br>Art: irrticon<br>Index: 179",
+        "filter": "fa veh t2"
+    },
+    "HURR": {
+        "image": "http://mentalomega.com/images/cameo/alnqicon.png",
+        "name": "Alanqa Skystation",
+        "description": "Name: Alanqa Skystation<br>INI Name: HURR<br>VoiceAttack: AlanqaAttackCommand<br>Art: alnqicon<br>Index: 171",
+        "filter": "fa veh t3"
+    },
+    "QUETZ": {
+        "image": "http://mentalomega.com/images/cameo/qutzicon.png",
+        "name": "Quetzal",
+        "description": "Name: Quetzal<br>INI Name: QUETZ<br>VoiceAttack: QuetzalcoatlAttackCommand<br>Art: qutzicon<br>Index: 188",
+        "filter": "fa veh t3"
+    },
+    "QUICK": {
+        "filter": "ga veh t4",
+        "image": "http://mentalomega.com/images/cameo/quikicon.png",
+        "name": "Quickshifter",
+        "description": "Name: Quickshifter<br>INI Name: QUICK<br>VoiceAttack: QuickshifterAttackCommand<br>Art: quikicon<br>Index: 191"
+    },
+    "LIONH": {
+        "filter": "ga veh t4",
+        "image": "http://mentalomega.com/images/cameo/lionicon.png",
+        "name": "Lionheart Bomber",
+        "description": "Name: Lionheart Bomber<br>INI Name: LIONH<br>VoiceAttack: LionheartAttackCommand<br>Art: lionicon<br>Index: 34"
+    },
+    "CHRP": {
+        "filter": "ga veh t4",
+        "image": "http://mentalomega.com/images/cameo/chrpicon.png",
+        "name": "Chrono Prison",
+        "description": "Name: Chrono Prison<br>INI Name: CHRP<br>VoiceAttack: ChronoPrisonAttackCommand<br>Art: chrpicon<br>Index: 30"
+    },
+    "AHVYBOT2": {
+        "filter": "ga veh t4",
+        "image": "http://mentalomega.com/images/cameo/hev2icon.png",
+        "name": "Future Tank Alpha",
+        "description": "Name: Future Tank Alpha<br>INI Name: AHVYBOT2<br>VoiceAttack: FTank2AttackCommand<br>Art: hev2icon<br>Index: 213"
+    },
+    "GRUMBLE": {
+        "filter": "na veh t4",
+        "image": "http://mentalomega.com/images/cameo/grumicon.png",
+        "name": "Grumble",
+        "description": "Name: Grumble<br>INI Name: GRUMBLE<br>VoiceAttack: GrumbleMove<br>Art: grumicon<br>Index: 208"
+    },
+    "MAMM": {
+        "filter": "na veh t4",
+        "image": "http://mentalomega.com/images/cameo/apocicon.png",
+        "name": "Apocalypse Tank",
+        "description": "Name: Apocalypse Tank<br>INI Name: MAMM<br>VoiceAttack: ApocalypseAttackCommand<br>Art: apocicon<br>Index: 100"
+    },
+    "SYCKLE": {
+        "filter": "na veh t4",
+        "image": "http://mentalomega.com/images/cameo/syckicon.png",
+        "name": "Syckle",
+        "description": "Name: Syckle<br>INI Name: SYCKLE<br>VoiceAttack: SyckleAttackCommand<br>Art: syckicon<br>Index: 61"
+    },
+    "IDRAG": {
+        "filter": "na veh t4",
+        "image": "http://mentalomega.com/images/cameo/idrgicon.png",
+        "name": "Iron Dragon",
+        "description": "Name: Iron Dragon<br>INI Name: IDRAG<br>VoiceAttack: IronDragonAttackCommand<br>Art: idrgicon<br>Index: 102"
+    },
+    "TRACTOR": {
+        "filter": "ya veh t4",
+        "image": "http://mentalomega.com/images/cameo/trcticon.png",
+        "name": "Scavenger",
+        "description": "Name: Scavenger<br>INI Name: TRACTOR<br>VoiceAttack: ScavengerNewAttackCommand<br>Art: trcticon<br>Index: 200"
+    },
+    "WORMQ": {
+        "filter": "ya veh t4",
+        "image": "http://mentalomega.com/images/cameo/wrmqicon.png",
+        "name": "Wormqueen",
+        "description": "Name: Wormqueen<br>INI Name: WORMQ<br>VoiceAttack: WormqueenAttackCommand<br>Art: wrmqicon<br>Index: 166"
+    },
+    "SEIZER": {
+        "filter": "ya veh t4",
+        "image": "http://mentalomega.com/images/cameo/seizicon.png",
+        "name": "Dybbuk-Seizer",
+        "description": "Name: Dybbuk-Seizer<br>INI Name: SEIZER<br>VoiceAttack: SeizerAttackCommand<br>Art: seizicon<br>Index: 31"
+    },
+    "SALA": {
+        "filter": "ya veh t4",
+        "image": "http://mentalomega.com/images/cameo/salaicon.png",
+        "name": "Salamander",
+        "description": "Name: Salamander<br>INI Name: SALA<br>VoiceAttack: SalamanderAttackCommand<br>Art: salaicon<br>Index: 64"
+    },
+    "PHNT": {
+        "filter": "fa veh t4",
+        "image": "http://mentalomega.com/images/cameo/phnticon.png",
+        "name": "Phantasm MLRS",
+        "description": "Name: Phantasm MLRS<br>INI Name: PHNT<br>VoiceAttack: PhantasmAttackCommand<br>Art: phnticon<br>Index: 209"
+    },
+    "SEITAAD": {
+        "filter": "fa veh t4",
+        "image": "http://mentalomega.com/images/cameo/seiticon.png",
+        "name": "Seitaad Ballista",
+        "description": "Name: Seitaad Ballista<br>INI Name: SEITAAD<br>VoiceAttack: SeitaadAttackCommand<br>Art: seiticon<br>Index: 194"
+    },
+    "ARCH": {
+        "filter": "fa veh t4",
+        "image": "http://mentalomega.com/images/cameo/arclicon.png",
+        "name": "Archelon",
+        "description": "Name: Archelon<br>INI Name: ARCH<br>VoiceAttack: ArchelonAttackCommand<br>Art: arclicon<br>Index: 203"
+    },
+    "RAMW": {
+        "filter": "fa veh t4",
+        "image": "http://mentalomega.com/images/cameo/ramwicon.png",
+        "name": "Ramwagon",
+        "description": "Name: Ramwagon<br>INI Name: RAMW<br>VoiceAttack: RamwagonAttackCommand<br>Art: ramwicon<br>Index: 195"
+    },
+    "REJU": {
+        "image": "http://mentalomega.com/images/cameo/rejuicon.png",
+        "name": "Rejuvenator",
+        "description": "Name: Rejuvenator<br>INI Name: REJU<br>VoiceAttack: RejuvenatorAttackCommand<br>Art: rejuicon<br>Index: 301",
+        "filter": "ga veh t3"
+    },
+    "GAPOWR": {
+        "image": "http://mentalomega.com/images/cameo/powricon.png",
+        "name": "Power Plant",
+        "description": "Name: Power Plant<br>INI Name: GAPOWR<br>Art: powricon<br>Index: 1",
+        "filter": "ga bud t1"
+    },
+    "GAPOWRUP": {
+        "image": "http://mentalomega.com/images/cameo/pwupicon.png",
+        "name": "Power Turbine",
+        "description": "Name: Power Turbine<br>INI Name: GAPOWRUP<br>Art: pwupicon<br>Index: 126",
+        "filter": "ga bud t2"
+    },
+    "GAPILE": {
+        "image": "http://mentalomega.com/images/cameo/brrkicon.png",
+        "name": "Allied Barracks",
+        "description": "Name: Allied Barracks<br>INI Name: GAPILE<br>Art: brrkicon<br>Index: 2",
+        "filter": "ga bud t1"
+    },
+    "GAREFN": {
+        "image": "http://mentalomega.com/images/cameo/reficon.png",
+        "name": "Allied Ore Refinery",
+        "description": "Name: Allied Ore Refinery<br>INI Name: GAREFN<br>Art: reficon<br>Index: 3",
+        "filter": "ga bud t1"
+    },
+    "GAWEAP": {
+        "image": "http://mentalomega.com/images/cameo/gwepicon.png",
+        "name": "Allied War Factory",
+        "description": "Name: Allied War Factory<br>INI Name: GAWEAP<br>Art: gwepicon<br>Index: 4",
+        "filter": "ga bud t1"
+    },
+    "GAAIRC": {
+        "image": "http://mentalomega.com/images/cameo/heliicon.png",
+        "name": "Allied Air Force Command Headquarters",
+        "description": "Name: Allied Air Force Command Headquarters<br>INI Name: GAAIRC<br>Art: heliicon<br>Index: 5",
+        "filter": "ga bud t2"
+    },
+    "GADEPO": {
+        "image": "http://mentalomega.com/images/cameo/gdpoicon.png",
+        "name": "Arsenal Depot",
+        "description": "Name: Arsenal Depot<br>INI Name: GADEPO<br>Art: gdpoicon<br>Index: 7",
+        "filter": "ga bud t1"
+    },
+    "GAHPAD": {
+        "image": "http://mentalomega.com/images/cameo/hpadicon.png",
+        "name": "Runway",
+        "description": "Name: Runway<br>INI Name: GAHPAD<br>Art: hpadicon<br>Index: 15",
+        "filter": "ga bud t3"
+    },
+    "GAYARD": {
+        "image": "http://mentalomega.com/images/cameo/ayaricon.png",
+        "name": "Allied Naval Shipyard",
+        "description": "Name: Allied Naval Shipyard<br>INI Name: GAYARD<br>Art: ayaricon<br>Index: 6",
+        "filter": "ga bud t1"
+    },
+    "GATECH": {
+        "image": "http://mentalomega.com/images/cameo/techicon.png",
+        "name": "Allied Tech Center",
+        "description": "Name: Allied Tech Center<br>INI Name: GATECH<br>Art: techicon<br>Index: 13",
+        "filter": "ga bud t3"
+    },
+    "GASTAS": {
+        "image": "http://mentalomega.com/images/cameo/ultricon.png",
+        "name": "Ultra Dome",
+        "description": "Name: Ultra Dome<br>INI Name: GASTAS<br>Art: ultricon<br>Index: 24",
+        "filter": "ga bud t3"
+    },
+    "GACLAB": {
+        "image": "http://mentalomega.com/images/cameo/ewrpicon.png",
+        "name": "Experimental Warpshop",
+        "description": "Name: Experimental Warpshop<br>INI Name: GACLAB<br>Art: ewrpicon<br>Index: 25",
+        "filter": "ga bud t3"
+    },
+    "GAPOST": {
+        "image": "http://mentalomega.com/images/cameo/cfenicon.png",
+        "name": "Warpnode",
+        "description": "Name: Warpnode<br>INI Name: GAPOST<br>Art: cfenicon<br>Index: 106",
+        "filter": "ga bud t3"
+    },
+    "GAOREP": {
+        "image": "http://mentalomega.com/images/cameo/goreicon.png",
+        "name": "Ore Purifier",
+        "description": "Name: Ore Purifier<br>INI Name: GAOREP<br>Art: goreicon<br>Index: 11",
+        "filter": "ga bud t3"
+    },
+    "GAMERC": {
+        "image": "http://mentalomega.com/images/cameo/asaticon.png",
+        "name": "Mercury Network Uplink",
+        "description": "Name: Mercury Network Uplink<br>INI Name: GAMERC<br>Art: asaticon<br>Index: 12",
+        "filter": "ga bud t2"
+    },
+    "GASCPF": {
+        "image": "http://mentalomega.com/images/cameo/rbccicon.png",
+        "name": "Robot Ops Control Center",
+        "description": "Name: Robot Ops Control Center<br>INI Name: GASCPF<br>Art: rbccicon<br>Index: 8",
+        "filter": "ga bud t2"
+    },
+    "GASCEA": {
+        "image": "http://mentalomega.com/images/cameo/sceaicon.png",
+        "name": "Shield Command",
+        "description": "Name: Shield Command<br>INI Name: GASCEA<br>Art: sceaicon<br>Index: 9",
+        "filter": "ga bud t2"
+    },
+    "GAAIRC_D": {
+        "image": "http://mentalomega.com/images/cameo/grdcicon.png",
+        "name": "Allied Drop Control",
+        "description": "Name: Allied Drop Control<br>INI Name: GAAIRC_D<br>Art: grdcicon<br>Index: 10",
+        "filter": "ga bud t2"
+    },
+    "GAWALL": {
+        "image": "http://mentalomega.com/images/cameo/wallicon.png",
+        "name": "Allied Concrete Wall",
+        "description": "Name: Allied Concrete Wall<br>INI Name: GAWALL<br>Art: wallicon<br>Index: 16",
+        "filter": "ga bud t1"
+    },
+    "GAGATE_C": {
+        "image": "http://mentalomega.com/images/cameo/agaticon.png",
+        "align": "top right",
+        "name": "Allied Gate NS",
+        "description": "Name: Allied Gate NS<br>INI Name: GAGATE_C<br>Art: agtbicon<br>Index: 17",
+        "filter": "ga bud t1"
+    },
+    "GAGATE_D": {
+        "image": "http://mentalomega.com/images/cameo/agaticon.png",
+        "name": "Allied Gate EW",
+        "description": "Name: Allied Gate EW<br>INI Name: GAGATE_D<br>Art: agtaicon<br>Index: 18",
+        "filter": "ga bud t1"
+    },
+    "GAPILL": {
+        "image": "http://mentalomega.com/images/cameo/pillicon.png",
+        "name": "Pillbox",
+        "description": "Name: Pillbox<br>INI Name: GAPILL<br>Art: pillicon<br>Index: 19",
+        "filter": "ga bud t1"
+    },
+    "GAGUN": {
+        "image": "http://mentalomega.com/images/cameo/gunticon.png",
+        "name": "Gun Turret",
+        "description": "Name: Gun Turret<br>INI Name: GAGUN<br>Art: gunticon<br>Index: 20",
+        "filter": "ga bud t1"
+    },
+    "NASAM": {
+        "image": "http://mentalomega.com/images/cameo/samicon.png",
+        "name": "Patriot Missiles",
+        "description": "Name: Patriot Missiles<br>INI Name: NASAM<br>Art: samicon<br>Index: 21",
+        "filter": "ga bud t2"
+    },
+    "GAHYPE": {
+        "image": "http://mentalomega.com/images/cameo/hypeicon.png",
+        "name": "Hyperion",
+        "description": "Name: Hyperion<br>INI Name: GAHYPE<br>Art: hypeicon<br>Index: 108",
+        "filter": "ga bud t3"
+    },
+    "ATESLA": {
+        "image": "http://mentalomega.com/images/cameo/prisicon.png",
+        "name": "Prism Tower",
+        "description": "Name: Prism Tower<br>INI Name: ATESLA<br>Art: prisicon<br>Index: 22",
+        "filter": "ga bud t2"
+    },
+    "GTGCAN": {
+        "image": "http://mentalomega.com/images/cameo/gcanicon.png",
+        "name": "Grand Cannon",
+        "description": "Name: Grand Cannon<br>INI Name: GTGCAN<br>Art: gcanicon<br>Index: 23",
+        "filter": "ga bud t3"
+    },
+    "GAGAP": {
+        "image": "http://mentalomega.com/images/cameo/gapicon.png",
+        "name": "Gap Generator",
+        "description": "Name: Gap Generator<br>INI Name: GAGAP<br>Art: gapicon<br>Index: 26",
+        "filter": "ga bud t3"
+    },
+    "GACSPH": {
+        "image": "http://mentalomega.com/images/cameo/csphicon.png",
+        "name": "Chronosphere",
+        "description": "Name: Chronosphere<br>INI Name: GACSPH<br>Art: csphicon<br>Index: 28",
+        "filter": "ga bud t3"
+    },
+    "GAWEAT": {
+        "image": "http://mentalomega.com/images/cameo/wethicon.png",
+        "name": "Weather Controller",
+        "description": "Name: Weather Controller<br>INI Name: GAWEAT<br>Art: wethicon<br>Index: 27",
+        "filter": "ga bud t3"
+    },
+    "NAPOWR": {
+        "image": "http://mentalomega.com/images/cameo/npwricon.png",
+        "name": "Tesla Reactor",
+        "description": "Name: Tesla Reactor<br>INI Name: NAPOWR<br>Art: npwricon<br>Index: 30",
+        "filter": "na bud t1"
+    },
+    "NAHAND": {
+        "image": "http://mentalomega.com/images/cameo/handicon.png",
+        "name": "Soviet Barracks",
+        "description": "Name: Soviet Barracks<br>INI Name: NAHAND<br>Art: handicon<br>Index: 31",
+        "filter": "na bud t1"
+    },
+    "NAREFN": {
+        "image": "http://mentalomega.com/images/cameo/nreficon.png",
+        "name": "Soviet Ore Refinery",
+        "description": "Name: Soviet Ore Refinery<br>INI Name: NAREFN<br>Art: nreficon<br>Index: 32",
+        "filter": "na bud t1"
+    },
+    "NAWEAP": {
+        "image": "http://mentalomega.com/images/cameo/nwepicon.png",
+        "name": "Soviet War Factory",
+        "description": "Name: Soviet War Factory<br>INI Name: NAWEAP<br>Art: nwepicon<br>Index: 33",
+        "filter": "na bud t1"
+    },
+    "NAAIR": {
+        "image": "http://mentalomega.com/images/cameo/sairicon.png",
+        "name": "Soviet Airbase",
+        "description": "Name: Soviet Airbase<br>INI Name: NAAIR<br>Art: sairicon<br>Index: 35",
+        "filter": "na bud t2"
+    },
+    "NAYARD": {
+        "image": "http://mentalomega.com/images/cameo/yardicon.png",
+        "name": "Soviet Naval Shipyard",
+        "description": "Name: Soviet Naval Shipyard<br>INI Name: NAYARD<br>Art: yardicon<br>Index: 36",
+        "filter": "na bud t1"
+    },
+    "NARADR": {
+        "image": "http://mentalomega.com/images/cameo/nradicon.png",
+        "name": "Radar Dish",
+        "description": "Name: Radar Dish<br>INI Name: NARADR<br>Art: nradicon<br>Index: 34",
+        "filter": "na bud t2"
+    },
+    "NAPRIS": {
+        "image": "http://mentalomega.com/images/cameo/npriicon.png",
+        "name": "Field Bureau",
+        "description": "Name: Field Bureau<br>INI Name: NAPRIS<br>Art: npriicon<br>Index: 51",
+        "filter": "na bud t1"
+    },
+    "NAEMPS": {
+        "image": "http://mentalomega.com/images/cameo/nempicon.png",
+        "name": "EMP Control Station",
+        "description": "Name: EMP Control Station<br>INI Name: NAEMPS<br>Art: nempicon<br>Index: 701",
+        "filter": "na bud t3"
+    },
+    "NATEK": {
+        "image": "http://mentalomega.com/images/cameo/ntekicon.png",
+        "name": "Chinese Atomheart",
+        "description": "Name: Chinese Atomheart<br>INI Name: NATEK<br>Art: ntekicon<br>Index: 37",
+        "filter": "na bud t3"
+    },
+    "NATECHC": {
+        "image": "http://mentalomega.com/images/cameo/nateicon.png",
+        "name": "Latin Battle Lab",
+        "description": "Name: Latin Battle Lab<br>INI Name: NATECHC<br>Art: nateicon<br>Index: 39",
+        "filter": "na bud t3"
+    },
+    "NATECHR": {
+        "image": "http://mentalomega.com/images/cameo/ntchicon.png",
+        "name": "Russian Palace",
+        "description": "Name: Russian Palace<br>INI Name: NATECHR<br>Art: ntchicon<br>Index: 38",
+        "filter": "na bud t3"
+    },
+    "NAINDP": {
+        "image": "http://mentalomega.com/images/cameo/indpicon.png",
+        "name": "Industrial Plant",
+        "description": "Name: Industrial Plant<br>INI Name: NAINDP<br>Art: indpicon<br>Index: 41",
+        "filter": "na bud t3"
+    },
+    "NANRCT": {
+        "image": "http://mentalomega.com/images/cameo/nrcticon.png",
+        "name": "Nuclear Reactor",
+        "description": "Name: Nuclear Reactor<br>INI Name: NANRCT<br>Art: nrcticon<br>Index: 42",
+        "filter": "na bud t2"
+    },
+    "NAWALL": {
+        "image": "http://mentalomega.com/images/cameo/nwalicon.png",
+        "name": "Soviet Fortress Wall",
+        "description": "Name: Soviet Fortress Wall<br>INI Name: NAWALL<br>Art: nwalicon<br>Index: 44",
+        "filter": "na bud t1"
+    },
+    "NAGATE_A": {
+        "image": "http://mentalomega.com/images/cameo/ngateicon.png",
+        "align": "top right",
+        "name": "Soviet Gate NS",
+        "description": "Name: Soviet Gate NS<br>INI Name: NAGATE_A<br>Art: ngaticon<br>Index: 45",
+        "filter": "na bud t1"
+    },
+    "NAGATE_B": {
+        "image": "http://mentalomega.com/images/cameo/ngateicon.png",
+        "name": "Soviet Gate EW",
+        "description": "Name: Soviet Gate EW<br>INI Name: NAGATE_B<br>Art: ngtbicon<br>Index: 46",
+        "filter": "na bud t1"
+    },
+    "NALASR": {
+        "image": "http://mentalomega.com/images/cameo/plticon.png",
+        "name": "Sentry Gun",
+        "description": "Name: Sentry Gun<br>INI Name: NALASR<br>Art: plticon<br>Index: 47",
+        "filter": "na bud t1"
+    },
+    "NAMORT": {
+        "image": "http://mentalomega.com/images/cameo/nmoricon.png",
+        "name": "Smoke Turret",
+        "description": "Name: Smoke Turret<br>INI Name: NAMORT<br>Art: nmoricon<br>Index: 822",
+        "filter": "na bud t3"
+    },
+    "NASCOM": {
+        "image": "http://mentalomega.com/images/cameo/ncomicon.png",
+        "name": "Sensor Tower",
+        "description": "Name: Sensor Tower<br>INI Name: NASCOM<br>Art: ncomicon<br>Index: 703",
+        "filter": "na bud t3"
+    },
+    "NAFLAK": {
+        "image": "http://mentalomega.com/images/cameo/flakicon.png",
+        "name": "Flak Cannon",
+        "description": "Name: Flak Cannon<br>INI Name: NAFLAK<br>Art: flakicon<br>Index: 48",
+        "filter": "na bud t2"
+    },
+    "TESLA": {
+        "image": "http://mentalomega.com/images/cameo/tslaicon.png",
+        "name": "Tesla Coil",
+        "description": "Name: Tesla Coil<br>INI Name: TESLA<br>Art: tslaicon<br>Index: 49",
+        "filter": "na bud t2"
+    },
+    "NAHAMM": {
+        "image": "http://mentalomega.com/images/cameo/nhmmicon.png",
+        "name": "Hammer Defense",
+        "description": "Name: Hammer Defense<br>INI Name: NAHAMM<br>Art: nhmmicon<br>Index: 130",
+        "filter": "na bud t3"
+    },
+    "NADRON": {
+        "image": "http://mentalomega.com/images/cameo/rfixicon.png",
+        "name": "Repair Crane",
+        "description": "Name: Repair Crane<br>INI Name: NADRON<br>Art: rfixicon<br>Index: 111",
+        "filter": "na bud t3"
+    },
+    "NABNKR": {
+        "image": "http://mentalomega.com/images/cameo/bnkricon.png",
+        "name": "Battle Bunker",
+        "description": "Name: Battle Bunker<br>INI Name: NABNKR<br>Art: bnkricon<br>Index: 50",
+        "filter": "na bud t1"
+    },
+    "NAIRON": {
+        "image": "http://mentalomega.com/images/cameo/ironicon.png",
+        "name": "Iron Curtain Device",
+        "description": "Name: Iron Curtain Device<br>INI Name: NAIRON<br>Art: ironicon<br>Index: 53",
+        "filter": "na bud t3"
+    },
+    "NAIRDM": {
+        "image": "http://mentalomega.com/images/cameo/irdmicon.png",
+        "name": "Iron Guard",
+        "description": "Name: Iron Guard<br>INI Name: NAIRDM<br>Art: irdmicon<br>Index: 817",
+        "filter": "na bud t3"
+    },
+    "NAMISL": {
+        "image": "http://mentalomega.com/images/cameo/msslicon.png",
+        "name": "Tactical Nuke Silo",
+        "description": "Name: Tactical Nuke Silo<br>INI Name: NAMISL<br>Art: msslicon<br>Index: 52",
+        "filter": "na bud t3"
+    },
+    "YACXST": {
+        "image": "http://mentalomega.com/images/cameo/fycyicon.png",
+        "name": "Fake Construction Yard",
+        "description": "Name: Fake Construction Yard<br>INI Name: YACXST<br>Art: fycyicon<br>Index: 81",
+        "filter": "ya bud t3"
+    },
+    "YAPOWR": {
+        "image": "http://mentalomega.com/images/cameo/ypwricon.png",
+        "name": "Bio Reactor",
+        "description": "Name: Bio Reactor<br>INI Name: YAPOWR<br>Art: ypwricon<br>Index: 55",
+        "filter": "ya bud t1"
+    },
+    "YABRCK": {
+        "image": "http://mentalomega.com/images/cameo/brckicon.png",
+        "name": "Epsilon Barracks",
+        "description": "Name: Epsilon Barracks<br>INI Name: YABRCK<br>Art: brckicon<br>Index: 56",
+        "filter": "ya bud t1"
+    },
+    "YAVULT": {
+        "image": "http://mentalomega.com/images/cameo/evlticon.png",
+        "name": "Synthesis Vault",
+        "description": "Name: Synthesis Vault<br>INI Name: YAVULT<br>Art: evlticon<br>Index: 96",
+        "filter": "ya bud t1"
+    },
+    "YARIREFN": {
+        "image": "http://mentalomega.com/images/cameo/yreficon.png",
+        "name": "Epsilon Ore Refinery",
+        "description": "Name: Epsilon Ore Refinery<br>INI Name: YARIREFN<br>Art: yreficon<br>Index: 57",
+        "filter": "ya bud t1"
+    },
+    "YAWEAP": {
+        "image": "http://mentalomega.com/images/cameo/ywepicon.png",
+        "name": "Epsilon War Factory",
+        "description": "Name: Epsilon War Factory<br>INI Name: YAWEAP<br>Art: ywepicon<br>Index: 59",
+        "filter": "ya bud t1"
+    },
+    "YAPSIS": {
+        "image": "http://mentalomega.com/images/cameo/psisicon.png",
+        "name": "Radar Spire",
+        "description": "Name: Radar Spire<br>INI Name: YAPSIS<br>Art: psisicon<br>Index: 60",
+        "filter": "ya bud t2"
+    },
+    "YAAIRF": {
+        "image": "http://mentalomega.com/images/cameo/aerdicon.png",
+        "name": "Epsilon Aerodome",
+        "description": "Name: Epsilon Aerodome<br>INI Name: YAAIRF<br>Art: aerdicon<br>Index: 76",
+        "filter": "ya bud t2"
+    },
+    "YAYARD": {
+        "image": "http://mentalomega.com/images/cameo/yyrdicon.png",
+        "name": "Epsilon Naval Shipyard",
+        "description": "Name: Epsilon Naval Shipyard<br>INI Name: YAYARD<br>Art: yyrdicon<br>Index: 61",
+        "filter": "ya bud t1"
+    },
+    "YATECH": {
+        "image": "http://mentalomega.com/images/cameo/ytchicon.png",
+        "name": "Epsilon Pandora Hub",
+        "description": "Name: Epsilon Pandora Hub<br>INI Name: YATECH<br>Art: ytchicon<br>Index: 62",
+        "filter": "ya bud t2"
+    },
+    "YAPVLT": {
+        "image": "https://static.wikia.nocookie.net/moapyr/images/4/4d/Pplugicon.png",
+        "name": "Psychplug",
+        "description": "Name: Psychplug<br>INI Name: YAPVLT<br>Art: plgpicon<br>Index: 66",
+        "filter": "ya bud t3"
+    },
+    "YACVLT": {
+        "image": "https://static.wikia.nocookie.net/moapyr/images/6/62/Cplugicon.png",
+        "name": "Chemplug",
+        "description": "Name: Chemplug<br>INI Name: YACVLT<br>Art: plgcicon<br>Index: 65",
+        "filter": "ya bud t3"
+    },
+    "YAGVLT": {
+        "image": "https://static.wikia.nocookie.net/moapyr/images/7/78/Gplugicon.png",
+        "name": "Geneplug",
+        "description": "Name: Geneplug<br>INI Name: YAGVLT<br>Art: plggicon<br>Index: 64",
+        "filter": "ya bud t3"
+    },
+    "YAMPSI": {
+        "image": "http://mentalomega.com/images/cameo/mpsiicon.png",
+        "name": "Mind Reader",
+        "description": "Name: Mind Reader<br>INI Name: YAMPSI<br>Art: mpsiicon<br>Index: 77",
+        "filter": "ya bud t2"
+    },
+    "YAGRND": {
+        "image": "http://mentalomega.com/images/cameo/grndicon.png",
+        "name": "Grinder",
+        "description": "Name: Grinder<br>INI Name: YAGRND<br>Art: grndicon<br>Index: 67",
+        "filter": "ya bud t3"
+    },
+    "NACLON": {
+        "image": "http://mentalomega.com/images/cameo/clonicon.png",
+        "name": "Cloning Vats",
+        "description": "Name: Cloning Vats<br>INI Name: NACLON<br>Art: clonicon<br>Index: 68",
+        "filter": "ya bud t3"
+    },
+    "YAMREF": {
+        "image": "http://mentalomega.com/images/cameo/wrigicon.png",
+        "name": "Deployed War Rig",
+        "description": "Name: Deployed War Rig<br>INI Name: YAMREF<br>VoiceAttack: SlaveMinerAttackCommand<br>Art: wrigicon<br>Index: 1026",
+        "filter": "ya bud t3"
+    },
+    "GAFWLL": {
+        "image": "http://mentalomega.com/images/cameo/citwicon.png",
+        "name": "Epsilon Citadel Wall",
+        "description": "Name: Epsilon Citadel Wall<br>INI Name: GAFWLL<br>Art: citwicon<br>Index: 69",
+        "filter": "ya bud t1"
+    },
+    "YAGATE_A": {
+        "image": "http://mentalomega.com/images/cameo/ygateicon.png",
+        "align": "top right",
+        "name": "Epsilon Gate NS",
+        "description": "Name: Epsilon Gate NS<br>INI Name: YAGATE_A<br>Art: ygaticon<br>Index: 70",
+        "filter": "ya bud t1"
+    },
+    "YAGATE_B": {
+        "image": "http://mentalomega.com/images/cameo/ygateicon.png",
+        "name": "Epsilon Gate EW",
+        "description": "Name: Epsilon Gate EW<br>INI Name: YAGATE_B<br>Art: ygtbicon<br>Index: 71",
+        "filter": "ya bud t1"
+    },
+    "YAGGUN": {
+        "image": "http://mentalomega.com/images/cameo/ggunicon.png",
+        "name": "Gatling Cannon",
+        "description": "Name: Gatling Cannon<br>INI Name: YAGGUN<br>Art: ggunicon<br>Index: 72",
+        "filter": "ya bud t1"
+    },
+    "YARAIL": {
+        "image": "http://mentalomega.com/images/cameo/infticon.png",
+        "name": "Inferno Tower",
+        "description": "Name: Inferno Tower<br>INI Name: YARAIL<br>Art: infticon<br>Index: 75",
+        "filter": "ya bud t2"
+    },
+    "YAPSYT": {
+        "image": "http://mentalomega.com/images/cameo/psyticon.png",
+        "name": "Psychic Tower",
+        "description": "Name: Psychic Tower<br>INI Name: YAPSYT<br>Art: psyticon<br>Index: 83",
+        "filter": "ya bud t3"
+    },
+    "YAHADE": {
+        "image": "http://mentalomega.com/images/cameo/antaicon.png",
+        "name": "Antares Battery",
+        "description": "Name: Antares Battery<br>INI Name: YAHADE<br>Art: antaicon<br>Index: 129",
+        "filter": "ya bud t3"
+    },
+    "YARIFT": {
+        "image": "http://mentalomega.com/images/cameo/rifticon.png",
+        "name": "Chimera Core",
+        "description": "Name: Chimera Core<br>INI Name: YARIFT<br>Art: rifticon<br>Index: 74",
+        "filter": "ya bud t3"
+    },
+    "NATBNK": {
+        "image": "http://mentalomega.com/images/cameo/tbnkicon.png",
+        "name": "Tank Bunker",
+        "description": "Name: Tank Bunker<br>INI Name: NATBNK<br>Art: tbnkicon<br>Index: 73",
+        "filter": "ya bud t1"
+    },
+    "YAGNTC": {
+        "image": "http://mentalomega.com/images/cameo/gntcicon.png",
+        "name": "Rage Inductor",
+        "description": "Name: Rage Inductor<br>INI Name: YAGNTC<br>Art: gntcicon<br>Index: 80",
+        "filter": "ya bud t3"
+    },
+    "YAPPET": {
+        "image": "http://mentalomega.com/images/cameo/pupticon.png",
+        "name": "Psychic Dominator",
+        "description": "Name: Psychic Dominator<br>INI Name: YAPPET<br>Art: pupticon<br>Index: 78",
+        "filter": "ya bud t3"
+    },
+    "YAPPXT": {
+        "image": "http://mentalomega.com/images/cameo/pxpticon.png",
+        "name": "Fake Psychic Dominator",
+        "description": "Name: Fake Psychic Dominator<br>INI Name: YAPPXT<br>Art: pxpticon<br>Index: 79",
+        "filter": "ya bud t3"
+    },
+    "FATRAP": {
+        "image": "http://mentalomega.com/images/cameo/wtrpicon.png",
+        "name": "Windtrap",
+        "description": "Name: Windtrap<br>INI Name: FATRAP<br>Art: wtrpicon<br>Index: 695",
+        "filter": "fa bud t1"
+    },
+    "FAWALL": {
+        "image": "http://mentalomega.com/images/cameo/fwalicon.png",
+        "name": "Foehn Bastion Wall",
+        "description": "Name: Foehn Bastion Wall<br>INI Name: FAWALL<br>Art: fwalicon<br>Index: 888",
+        "filter": "fa bud t1"
+    },
+    "FABARR": {
+        "image": "http://mentalomega.com/images/cameo/fbaricon.png",
+        "name": "Foehn Barracks",
+        "description": "Name: Foehn Barracks<br>INI Name: FABARR<br>Art: fbaricon<br>Index: 697",
+        "filter": "fa bud t1"
+    },
+    "FABARR_B": {
+        "image": "http://mentalomega.com/images/cameo/fbruicon.png",
+        "name": "Foehn Knightfall Protocol",
+        "description": "Name: Foehn Knightfall Protocol<br>INI Name: FABARR_B<br>Art: fbruicon<br>Index: 807",
+        "filter": "fa bud t3"
+    },
+    "FAREFN": {
+        "image": "http://mentalomega.com/images/cameo/freficon.png",
+        "name": "Foehn Ore Refinery",
+        "description": "Name: Foehn Ore Refinery<br>INI Name: FAREFN<br>Art: freficon<br>Index: 698",
+        "filter": "fa bud t1"
+    },
+    "FAYARD": {
+        "image": "http://mentalomega.com/images/cameo/fyrdicon.png",
+        "name": "Foehn Naval Shipyard",
+        "description": "Name: Foehn Naval Shipyard<br>INI Name: FAYARD<br>Art: fyrdicon<br>Index: 700",
+        "filter": "fa bud t1"
+    },
+    "FAWEAP": {
+        "image": "http://mentalomega.com/images/cameo/fwepicon.png",
+        "name": "Foehn War Factory",
+        "description": "Name: Foehn War Factory<br>INI Name: FAWEAP<br>Art: fwepicon<br>Index: 699",
+        "filter": "fa bud t1"
+    },
+    "FAINHI": {
+        "image": "http://mentalomega.com/images/cameo/inhiicon.png",
+        "name": "Signal Inhibitor",
+        "description": "Name: Signal Inhibitor<br>INI Name: FAINHI<br>Art: inhiicon<br>Index: 810",
+        "filter": "fa bud t3"
+    },
+    "FACOMP": {
+        "image": "http://mentalomega.com/images/cameo/fequicon.png",
+        "name": "Neutralizer",
+        "description": "Name: Neutralizer<br>INI Name: FACOMP<br>Art: fequicon<br>Index: 879",
+        "filter": "fa bud t3"
+    },
+    "FACOAT": {
+        "image": "http://mentalomega.com/images/cameo/coaticon.png",
+        "name": "Nanocoat Regulator",
+        "description": "Name: Nanocoat Regulator<br>INI Name: FACOAT<br>Art: coaticon<br>Index: 820",
+        "filter": "fa bud t2"
+    },
+    "FASONI": {
+        "image": "http://mentalomega.com/images/cameo/semiicon.png",
+        "name": "Sonic Emitter",
+        "description": "Name: Sonic Emitter<br>INI Name: FASONI<br>Art: semiicon<br>Index: 841",
+        "filter": "fa bud t1"
+    },
+    "FARAIL": {
+        "image": "http://mentalomega.com/images/cameo/rtowicon.png",
+        "name": "Railgun Tower",
+        "description": "Name: Railgun Tower<br>INI Name: FARAIL<br>Art: rtowicon<br>Index: 821",
+        "filter": "fa bud t2"
+    },
+    "FAGUAR": {
+        "image": "http://mentalomega.com/images/cameo/grdnicon.png",
+        "name": "Shrike Nest",
+        "description": "Name: Shrike Nest<br>INI Name: FAGUAR<br>Art: grdnicon<br>Index: 850",
+        "filter": "fa bud t2"
+    },
+    "FANANO": {
+        "image": "http://mentalomega.com/images/cameo/loomicon.png",
+        "name": "Nanofiber Loom",
+        "description": "Name: Nanofiber Loom<br>INI Name: FANANO<br>Art: loomicon<br>Index: 705",
+        "filter": "fa bud t2"
+    },
+    "FANANO_B": {
+        "image": "http://mentalomega.com/images/cameo/loomeicon.png",
+        "name": "Nanofiber Loom Expansion",
+        "description": "Name: Nanofiber Loom Expansion<br>INI Name: FANANO_B<br>Art: loomeicon<br>Index: 710",
+        "filter": "fa bud t3"
+    },
+    "FACYBR": {
+        "image": "http://mentalomega.com/images/cameo/cbrkicon.png",
+        "name": "Cyberkernel",
+        "description": "Name: Cyberkernel<br>INI Name: FACYBR<br>Art: cbrkicon<br>Index: 706",
+        "filter": "fa bud t2"
+    },
+    "FACYBR_B": {
+        "image": "http://mentalomega.com/images/cameo/cybreicon.png",
+        "name": "Cyberkernel Expansion",
+        "description": "Name: Cyberkernel Expansion<br>INI Name: FACYBR_B<br>Art: cybreicon<br>Index: 708",
+        "filter": "fa bud t3"
+    },
+    "FACLDP": {
+        "image": "http://mentalomega.com/images/cameo/cldpicon.png",
+        "name": "Cloud Piercer",
+        "description": "Name: Cloud Piercer<br>INI Name: FACLDP<br>Art: cldpicon<br>Index: 707",
+        "filter": "fa bud t2"
+    },
+    "FACLDP_B": {
+        "image": "http://mentalomega.com/images/cameo/cldpeicon.png",
+        "name": "Cloud Piercer Expansion",
+        "description": "Name: Cloud Piercer Expansion<br>INI Name: FACLDP_B<br>Art: cldpeicon<br>Index: 709",
+        "filter": "fa bud t3"
+    },
+    "FAREPR": {
+        "image": "http://mentalomega.com/images/cameo/repricon.png",
+        "name": "Reprocessor",
+        "description": "Name: Reprocessor<br>INI Name: FAREPR<br>Art: repricon<br>Index: 806",
+        "filter": "fa bud t3"
+    },
+    "FABLST": {
+        "image": "http://mentalomega.com/images/cameo/blsticon.png",
+        "name": "Blast Furnace",
+        "description": "Name: Blast Furnace<br>INI Name: FABLST<br>Art: blsticon<br>Index: 811",
+        "filter": "fa bud t3"
+    },
+    "FAELEV": {
+        "image": "http://mentalomega.com/images/cameo/elevicon.png",
+        "name": "Tempest Architect",
+        "description": "Name: Tempest Architect<br>INI Name: FAELEV<br>Art: elevicon<br>Index: 808",
+        "filter": "fa bud t3"
+    },
+    "FABTRC": {
+        "image": "http://mentalomega.com/images/cameo/btrcicon.png",
+        "name": "Blast Trench",
+        "description": "Name: Blast Trench<br>INI Name: FABTRC<br>Art: btrcicon<br>Index: 813",
+        "filter": "fa bud t3"
+    },
+    "FAHARB": {
+        "image": "http://mentalomega.com/images/cameo/hrbticon.png",
+        "name": "Harbinger Tower",
+        "description": "Name: Harbinger Tower<br>INI Name: FAHARB<br>Art: hrbticon<br>Index: 805",
+        "filter": "fa bud t3"
+    },
+    "FAAVAL": {
+        "image": "http://mentalomega.com/images/cameo/avalicon.png",
+        "name": "Plasmerizer",
+        "description": "Name: Plasmerizer<br>INI Name: FAAVAL<br>Art: avalicon<br>Index: 732",
+        "filter": "fa bud t3"
+    },
+    "FAMMIN": {
+        "image": "http://mentalomega.com/images/cameo/madmicon.png",
+        "name": "M.A.D. Mine",
+        "description": "Name: M.A.D. Mine<br>INI Name: FAMMIN<br>Art: madmicon<br>Index: 864",
+        "filter": "fa bud t3"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "GAGATE_C": {
+        "image": "http://mentalomega.com/images/cameo/agaticon.png",
+        "align": "top right"
+    },
+    "GAGATE_D": {
+        "image": "http://mentalomega.com/images/cameo/agaticon.png"
+    },
+    "NAGATE_A": {
+        "image": "http://mentalomega.com/images/cameo/ngateicon.png",
+        "align": "top right"
+    },
+    "NAGATE_B": {
+        "image": "http://mentalomega.com/images/cameo/ngateicon.png"
+    },
+    "YAGATE_A": {
+        "image": "http://mentalomega.com/images/cameo/ygateicon.png",
+        "align": "top right"
+    },
+    "YAGATE_B": {
+        "image": "http://mentalomega.com/images/cameo/ygateicon.png"
+    },
+    "YAPVLT": {
+        "image": "https://static.wikia.nocookie.net/moapyr/images/4/4d/Pplugicon.png"
+    },
+    "YACVLT": {
+        "image": "https://static.wikia.nocookie.net/moapyr/images/6/62/Cplugicon.png"
+    },
+    "YAGVLT": {
+        "image": "https://static.wikia.nocookie.net/moapyr/images/7/78/Gplugicon.png"
+    },
+    "QUICK": {
+        "filter": "ga veh t4"
+    },
+    "LIONH": {
+        "filter": "ga veh t4"
+    },
+    "CHRP": {
+        "filter": "ga veh t4"
+    },
+    "AHVYBOT2": {
+        "filter": "ga veh t4"
+    },
+    "GRUMBLE": {
+        "filter": "na veh t4"
+    },
+    "MAMM": {
+        "filter": "na veh t4"
+    },
+    "SYCKLE": {
+        "filter": "na veh t4"
+    },
+    "IDRAG": {
+        "filter": "na veh t4"
+    },
+    "TRACTOR": {
+        "filter": "ya veh t4"
+    },
+    "WORMQ": {
+        "filter": "ya veh t4"
+    },
+    "SEIZER": {
+        "filter": "ya veh t4"
+    },
+    "SALA": {
+        "filter": "ya veh t4"
+    },
+    "PHNT": {
+        "filter": "fa veh t4"
+    },
+    "SEITAAD": {
+        "filter": "fa veh t4"
+    },
+    "ARCH": {
+        "filter": "fa veh t4"
+    },
+    "RAMW": {
+        "filter": "fa veh t4"
+    }
+}
