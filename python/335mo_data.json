@@ -305,11 +305,23 @@
         "description": "Name: Knightframe<br>INI Name: KNIGHT<br>VoiceAttack: KnightframeAttackCommand<br>Art: knigicon<br>Index: 52",
         "filter": "fa inf t1"
     },
+    "KINGS": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/knigicon.png",
+        "name": "Kingsframe",
+        "description": "Name: Kingsframe<br>INI Name: KINGS<br>VoiceAttack: KnightframeAttackCommand2<br>Index: 53"
+    },
     "COVE": {
         "image": "http://mentalomega.com/images/cameo/lancicon.png",
         "name": "Lancer",
         "description": "Name: Lancer<br>INI Name: COVE<br>VoiceAttack: LancerAttackCommand<br>Art: lancicon<br>Index: 54",
         "filter": "fa inf t1"
+    },
+    "RAIL": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/lancion.png",
+        "name": "Railguneer",
+        "description": "Name: Railguneer<br>INI Name: RAIL<br>VoiceAttack: LancerAttackCommandB<br>Index: 55"
     },
     "FENGINEER": {
         "image": "http://mentalomega.com/images/cameo/fengicon.png",
@@ -323,11 +335,23 @@
         "description": "Name: Huntress<br>INI Name: HUNTR<br>VoiceAttack: HuntressAttackCommand<br>Art: hntricon<br>Index: 60",
         "filter": "fa inf t2"
     },
+    "DEVI": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/hntricon.png",
+        "name": "Deviatress",
+        "description": "Name: Deviatress<br>INI Name: DEVI<br>VoiceAttack: HuntressAttackCommandB<br>Index: 61"
+    },
     "CLAIR": {
         "image": "http://mentalomega.com/images/cameo/clrvicon.png",
         "name": "Clairvoyant",
         "description": "Name: Clairvoyant<br>INI Name: CLAIR<br>VoiceAttack: ClairvoyantAttackCommand<br>Art: clrvicon<br>Index: 57",
         "filter": "fa inf t3"
+    },
+    "DUPL": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/clrvicon.png",
+        "name": "Duplicant",
+        "description": "Name: Duplicant<br>INI Name: DUPL<br>VoiceAttack: DuplicantAttackCommand<br>Index: 58"
     },
     "SYNC": {
         "image": "http://mentalomega.com/images/cameo/sronicon.png",
@@ -335,17 +359,35 @@
         "description": "Name: Syncronin<br>INI Name: SYNC<br>VoiceAttack: SyncroninAttackCommand<br>Art: sronicon<br>Index: 62",
         "filter": "fa inf t3"
     },
+    "SYNC_N": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/sronicon.png",
+        "name": "Syncronaut",
+        "description": "Name: Syncronaut<br>INI Name: SYNC_N<br>VoiceAttack: SyncroninAttackCommand<br>Index: 63"
+    },
     "ZORB": {
         "image": "http://mentalomega.com/images/cameo/zorbicon.png",
         "name": "Zorbtrotter",
         "description": "Name: Zorbtrotter<br>INI Name: ZORB<br>VoiceAttack: ZorbtrotterAttackCommand<br>Art: zorbicon<br>Index: 64",
         "filter": "fa inf t3"
     },
+    "ZORB_N": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/zorbicon.png",
+        "name": "Zorbfloater",
+        "description": "Name: Zorbfloater<br>INI Name: ZORB_N<br>VoiceAttack: ZorbtrotterAttackCommand<br>Index: 65"
+    },
     "BANE": {
         "image": "http://mentalomega.com/images/cameo/baneicon.png",
         "name": "Giantsbane",
         "description": "Name: Giantsbane<br>INI Name: BANE<br>VoiceAttack: GiantsbaneAttackCommand<br>Art: baneicon<br>Index: 66",
         "filter": "fa inf t3"
+    },
+    "BANE_N": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/baneicon.png",
+        "name": "Godsbane",
+        "description": "Name: Godsbane<br>INI Name: BANE_N<br>VoiceAttack: GiantsbaneAttackCommandB<br>Index: 67"
     },
     "SIBFIN": {
         "image": "http://mentalomega.com/images/cameo/finicon.png",
