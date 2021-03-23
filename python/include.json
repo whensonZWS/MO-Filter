@@ -76,5 +76,33 @@
     },
     "RAMW": {
         "filter": "fa veh t4"
+    },
+    "KINGS": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/knigicon.png"
+    },
+    "RAIL": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/lancion.png"
+    },
+    "DUPL": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/clrvicon.png"
+    },
+    "DEVI": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/hntricon.png"
+    },
+    "SYNC_N": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/sronicon.png"
+    },
+    "ZORB_N": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/zorbicon.png"
+    },
+    "BANE_N": {
+        "filter": "fa inf sy",
+        "image": "http://mentalomega.com/images/cameo/baneicon.png"
     }
 }
