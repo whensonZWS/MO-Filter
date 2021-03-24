@@ -337,7 +337,7 @@
     },
     "RAIL": {
         "filter": "fa inf sy",
-        "image": "http://mentalomega.com/images/cameo/lancion.png",
+        "image": "http://mentalomega.com/images/cameo/lancicon.png",
         "name": "Railguneer",
         "description": "Name: Railguneer<br>INI Name: RAIL<br>VoiceAttack: LancerAttackCommandB<br>Index: 55"
     },
