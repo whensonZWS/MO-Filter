@@ -83,7 +83,7 @@
     },
     "RAIL": {
         "filter": "fa inf sy",
-        "image": "http://mentalomega.com/images/cameo/lancion.png"
+        "image": "http://mentalomega.com/images/cameo/lancicon.png"
     },
     "DUPL": {
         "filter": "fa inf sy",
@@ -104,5 +104,181 @@
     "BANE_N": {
         "filter": "fa inf sy",
         "image": "http://mentalomega.com/images/cameo/baneicon.png"
+    },
+    "CYBO": {
+        "filter": "na inf t5",
+        "image": "https://vignette.wikia.nocookie.net/moapyr/images/4/41/Cyboicon.png/revision/latest?cb=20191221033001"
+    },
+    "BEETLE": {
+        "filter": "inf t5",
+        "image": ""
+    },
+    "DNOA": {
+        "filter": "inf t5",
+        "image": ""
+    },
+    "MOTHRA": {
+        "filter": "ya inf t5",
+        "image": "http://mentalomega.com/images/cameo/mothicon.png"
+    },
+    "TERROR": {
+        "filter": "na inf t5",
+        "image": ""
+    },
+    "SLAV": {
+        "filter": "ya inf t5",
+        "image": ""
+    },
+    "UTOPIA": {
+        "filter": "ya veh t5",
+        "image": ""
+    },
+    "DHANDR": {
+        "filter": "ya veh t5",
+        "image": ""
+    },
+    "DHANDL": {
+        "filter": "ya veh t5",
+        "image": ""
+    },
+    "REJU": {
+        "filter": "veh t5",
+        "image": "http://mentalomega.com/images/cameo/rejuicon.png"
+    },
+    "CYCOM": {
+        "filter": "inf t5",
+        "image": "https://vignette.wikia.nocookie.net/moapyr/images/b/b1/CyborgCommandoCameo.png/revision/latest?cb=20170802045839"
+    },
+    "LUNR": {
+        "filter": "inf t5",
+        "image": "https://vignette.wikia.nocookie.net/moapyr/images/b/b2/COSMONAUTCAMEO.png/revision/latest?cb=20180129123430"
+    },
+    "BIKE": {
+        "filter": "na inf t5",
+        "image": "http://mentalomega.com/images/cameo/quadicon.png"
+    },
+    "REZNOV": {
+        "filter": "na inf t5",
+        "image": "https://vignette.wikia.nocookie.net/moapyr/images/6/67/REZNOVCAMEO.png/revision/latest?cb=20180129112459"
+    },
+    "KRUKOV": {
+        "filter": "na inf t5",
+        "image": "https://vignette.wikia.nocookie.net/moapyr/images/3/31/KRUKOVCAMEO.png/revision/latest?cb=20180129112217"
+    },
+    "CBRIS": {
+        "filter": "ya inf t5",
+        "image": ""
+    },
+    "YURIX": {
+        "filter": "ya inf t5",
+        "image": ""
+    },
+    "RHAD": {
+        "filter": "ya inf t5",
+        "image": ""
+    },
+    "LIBRC": {
+        "filter": "ya inf t5",
+        "image": "http://mentalomega.com/images/cameo/liclicon.png"
+    },
+    "STLN": {
+        "filter": "inf t5",
+        "image": ""
+    },
+    "ARND": {
+        "filter": "inf t5",
+        "image": ""
+    },
+    "CLNT": {
+        "filter": "inf t5",
+        "image": ""
+    },
+    "AHMV": {
+        "filter": "ga veh t5",
+        "image": "http://mentalomega.com/images/cameo/ahmvicon.png"
+    },
+    "XPCV": {
+        "filter": "ya veh t5",
+        "image": "http://mentalomega.com/images/cameo/fpcvicon.png"
+    },
+    "DRACOD": {
+        "filter": "fa veh t5",
+        "image": ""
+    },
+    "PERUN": {
+        "filter": "na veh t5",
+        "image": ""
+    },
+    "STARDUSTB": {
+        "filter": "ga veh t5",
+        "image": ""
+    },
+    "ICBM": {
+        "filter": "na veh t5",
+        "image": ""
+    },
+    "MECHA": {
+        "filter": "ga veh t5",
+        "image": "http://mentalomega.com/ch/images/cameo/"
+    },
+    "PANTHER": {
+        "filter": "ga veh t5",
+        "image": ""
+    },
+    "AHVYBOT": {
+        "filter": "ga veh t5",
+        "image": "https://vignette.wikia.nocookie.net/moapyr/images/2/25/Hevyicon.png/revision/latest?cb=20180401042004"
+    },
+    "NAFTUR": {
+        "filter": "na bud t5",
+        "image": "http://mentalomega.com/images/cameo/ftowicon.png"
+    },
+    "FASPIN": {
+        "filter": "fa bud t5",
+        "image": "http://mentalomega.com/images/cameo/sbldicon.png"
+    },
+    "FAAREN": {
+        "filter": "fa bud t5",
+        "image": "http://mentalomega.com/images/cameo/arenicon.png"
+    },
+    "CANMIN": {
+        "filter": "na bud t5",
+        "image": "http://mentalomega.com/images/cameo/navmicon.png"
+    },
+    "GAROD": {
+        "filter": "ga bud t5",
+        "image": "http://mentalomega.com/images/cameo/lrodicon.png"
+    },
+    "YABALL": {
+        "filter": "ya bud t5",
+        "image": "http://mentalomega.com/images/cameo/rinficon.png"
+    },
+    "ZTARGET": {
+        "filter": "ga bud t5",
+        "image": "http://mentalomega.com/images/cameo/zbecicon.png"
+    },
+    "NAHOSP": {
+        "filter": "na bud t5",
+        "image": ""
+    },
+    "CAEAST02": {
+        "filter": "ya bud t5",
+        "image": ""
+    },
+    "MAYAN": {
+        "filter": "bud t5",
+        "image": ""
+    },
+    "FAPOST": {
+        "filter": "fa bud t5",
+        "image": "http://mentalomega.com/images/cameo/wblticon.png"
+    },
+    "RAVA": {
+        "filter": "na veh t5",
+        "image": "http://mentalomega.com/images/cameo/ravaicon.png"
+    },
+    "SDRN": {
+        "filter": "na veh t5",
+        "image": "http://mentalomega.com/images/cameo/rpdrnicon.png"
     }
 }
