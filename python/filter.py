@@ -19,8 +19,6 @@ veh_list = set()
 bud_list = set()
 full_list = {}
 
-exc_list = {'REJU'}
-inc_list = {'GACNST','NACNST','YACNST','FACNST'}
 
 a_list = {'GACNST'}
 s_list = {'NACNST'}
@@ -58,8 +56,6 @@ for key in rules['BuildingTypes']:
 		elif 'FACNST' in arr:
 			f_list.add(value)
 	
-
-
 		
 def faction(str,str2=''):
 	f = ''
@@ -145,17 +141,20 @@ for item in rules:
 
 	if (rules.has_option(item,'Prerequisite') and rules.has_option(item,'TechLevel') \
 		and int(rules[item]['TechLevel']) in range(1,11) and rules.has_option(item,'Name') and '(' not in rules[item]['Name']) or item in include :
+		
 		if item not in include:
 			data[item] = {}	
 		else:
 			data[item] = {}
 			data[item] = dict(include[item])
 		
-		# lambda function for checking if an item and its associate property exists. Return true if item doesn't exist or its associate property doesn't exist.
-		# use short circuit logic to prevent KeyError
-		
+
 		if 'image' not in data[item]:
 			data[item]['image'] = 'http://mentalomega.com/images/cameo/{}.png'.format(image(item))
+
+		if 'local' not in data[item]:
+			data[item]['local'] = "./assets/{}.png".format(image(item,False))
+			
 		# name
 		if 'name' not in data[item]:
 			data[item]['name'] = rules[item]['Name']
@@ -177,48 +176,3 @@ for item in rules:
 
 with open('335mo_data.json','w') as output:
 	json.dump(data,output,indent=4)
-
-
-
-
-
-
-
-
-
-
-# with open('temp.js','w') as output:
-# 	output.write('function initiate(){\n')
-# 	for i in rules.sections():
-# 		if (rules.has_option(i,'Prerequisite') and rules.has_option(i,'TechLevel') and i not in exc_list) or i in inc_list:
-			
-# 			f = ""
-# 			if rules.has_option(i,'Prerequisite'):
-# 				f = faction(rules[i]['Prerequisite'])
-				
-# 			if f == '' and rules.has_option(i,'Owner'):
-# 				f = faction("",rules[i]['Owner'])
-
-# 			t = int(rules[i]['TechLevel'])
-			
-# 			n = rules[i]['Name']
-			
-# 			if (f in ('ga','na','ya','fa') and t in range(1,11) and ('(' not in n or 'Spawner' in n)) or i in inc_list:
-# 				if 'Spawner' in n:
-# 					n = n[0:n.find('(')-1]
-				
-# 				s = '''manualAdd('{}',"{}",'{} {} {}','http://mentalomega.com/images/cameo/{}.png',"{}"{})'''
-				
-				
-# 				d = "Name:{}<br>ini:{}".format(n,i)
-# 				e = ''
-# 				if rules.has_option(i,'VoiceAttack'):
-# 					d += "<br>VoiceAttack:" + rules[i]['VoiceAttack']
-
-# 				if i in ('GAPOWRUP','GAGATE_C','NAGATE_A','YAGATE_A'):
-# 					e = ',"top right"'
-# 				output.write(s.format(i,n,f,cat(i),tech(t),image(i),d,e)+'\n')
-# 	output.write('}')			
-				
-		
-	

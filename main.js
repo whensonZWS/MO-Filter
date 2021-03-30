@@ -6,7 +6,7 @@ xmlhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
         data = JSON.parse(this.responseText);
         for (var key in data) {
-            addIcon(key, data[key]['name'], data[key]['filter'], data[key]['image'], text = data[key]['description'], al = data[key]['align']);
+            addIcon(key, data[key]['name'], data[key]['filter'], data[key]['local'], text = data[key]['description'], al = data[key]['align']);
         }
     }
 };
@@ -16,6 +16,7 @@ xmlhttp.send();
 
 function addIcon(id, name, filter, source = "http://mentalomega.com/images/cameo/bbtzicon.png", text = id, al = "top left") {
     al = al == undefined ? "top left" : al;
+    source = source == './assets/.png' ? "./assets/wooticon.png" : source;
     var frame = document.getElementById("mc");
     var d = document.createElement("DIV");
     d.className = "tooltip filt " + filter;
