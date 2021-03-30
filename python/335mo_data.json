@@ -330,7 +330,7 @@
     },
     "YURIPR": {
         "image": "http://mentalomega.com/images/cameo/yypricon.png",
-        "local": "./assets/YYPRICON.png",
+        "local": "./assets/yypricon.png",
         "name": "Epsilon Elite",
         "description": "Name: Epsilon Elite<br>INI Name: YURIPR<br>VoiceAttack: YuriAttackCommand<br>Art: YYPRICON<br>Index: 42",
         "filter": "ya inf t3"
