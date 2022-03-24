@@ -174,5 +174,5 @@ for item in rules:
 		if 'filter' not in data[item]:
 			data[item]['filter'] = faction(rules.get(item,'Prerequisite',fallback=''),rules.get(item,'Owner',fallback='')) + ' ' + cat(item) + ' ' + tech(int(rules[item]['TechLevel']))
 
-with open('335mo_data.json','w') as output:
+with open('336mo_data.json','w') as output:
 	json.dump(data,output,indent=4)

@@ -1,6 +1,6 @@
 
 var xmlhttp = new XMLHttpRequest();
-var url = './python/335mo_data.json';
+var url = './python/336mo_data.json';
 var data;
 xmlhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
