@@ -286,6 +286,13 @@
         "description": "Name: Infiltrator<br>INI Name: INTRUDER<br>VoiceAttack: InfiltratorDisguise<br>Art: intricon<br>Index: 45",
         "filter": "ya inf t3"
     },
+    "HIJACKER": {
+        "filter": "ya inf t5",
+        "image": "https://mentalomega.com/images/cameo/hjkricon.png",
+        "local": "./assets/hjkricon.png",
+        "name": "Hijacker",
+        "description": "Name: Hijacker<br>INI Name: HIJACKER<br>VoiceAttack: HijackerAttackCommand<br>Art: hjkricon<br>Index: 46"
+    },
     "REPU": {
         "image": "http://mentalomega.com/images/cameo/repuicon.png",
         "local": "./assets/repuicon.png",
@@ -337,7 +344,7 @@
     },
     "YURIPR": {
         "image": "http://mentalomega.com/images/cameo/yypricon.png",
-        "local": "./assets/YYPRICON.png",
+        "local": "./assets/yypricon.png",
         "name": "Epsilon Elite",
         "description": "Name: Epsilon Elite<br>INI Name: YURIPR<br>VoiceAttack: YuriAttackCommand<br>Art: YYPRICON<br>Index: 42",
         "filter": "ya inf t3"
@@ -1753,8 +1760,8 @@
         "filter": "ya veh t5",
         "image": "",
         "local": "./assets/.png",
-        "name": "Hand of Ereshkigal Right",
-        "description": "Name: Hand of Ereshkigal Right<br>INI Name: DHANDL<br>VoiceAttack: DHandAttackCommand<br>Index: 233"
+        "name": "Hand of Ereshkigal Left",
+        "description": "Name: Hand of Ereshkigal Left<br>INI Name: DHANDL<br>VoiceAttack: DHandAttackCommand<br>Index: 233"
     },
     "DHANDR": {
         "filter": "ya veh t5",
@@ -1762,6 +1769,13 @@
         "local": "./assets/.png",
         "name": "Hand of Ereshkigal Right",
         "description": "Name: Hand of Ereshkigal Right<br>INI Name: DHANDR<br>VoiceAttack: DHandAttackCommand<br>Index: 234"
+    },
+    "HEPH": {
+        "filter": "ya veh t5",
+        "image": "",
+        "local": "./assets/.png",
+        "name": "Ganzir Defender",
+        "description": "Name: Ganzir Defender<br>INI Name: HEPH<br>VoiceAttack: GanzirAttackCommand<br>Index: 163"
     },
     "GACNST": {
         "filter": "ga bud",

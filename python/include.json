@@ -157,6 +157,11 @@
         "filter": "ya inf t5",
         "image": ""
     },
+    "HIJACKER": {
+        "filter": "ya inf t5",
+        "image": "https://mentalomega.com/images/cameo/hjkricon.png",
+        "local": "./assets/hjkricon.png"
+    },
     "UTOPIA": {
         "filter": "ya veh t5",
         "image": ""
@@ -166,6 +171,10 @@
         "image": ""
     },
     "DHANDL": {
+        "filter": "ya veh t5",
+        "image": ""
+    },
+    "HEPH": {
         "filter": "ya veh t5",
         "image": ""
     },

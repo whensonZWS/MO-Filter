@@ -153,7 +153,7 @@ for item in rules:
 			data[item]['image'] = 'http://mentalomega.com/images/cameo/{}.png'.format(image(item))
 
 		if 'local' not in data[item]:
-			data[item]['local'] = "./assets/{}.png".format(image(item,False))
+			data[item]['local'] = "./assets/{}.png".format(image(item))
 			
 		# name
 		if 'name' not in data[item]:
