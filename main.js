@@ -24,7 +24,12 @@ function addIcon(id, name, filter, source = "http://mentalomega.com/images/cameo
     d.style.backgroundImage = "url('" + source + "')";
     d.style.backgroundPosition = al;
     d.title = name;
-
+    if (source == "./assets/wooticon.png") {
+        d2 = document.createElement("DIV");
+        d2.innerHTML = name;
+        d2.className = "noimage"
+        d.appendChild(d2);
+    }
     if (filter.includes('sy')) {
         nnn = document.createElement("DIV");
         nnn.innerHTML = "NANO";
