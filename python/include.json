@@ -264,6 +264,10 @@
         "filter": "ga veh t5",
         "image": ""
     },
+    "UMIN": {
+        "filter": "ga veh t5",
+        "image": "http://mentalomega.com/ch/images/cameo/"
+    },
     "AHVYBOT": {
         "filter": "ga veh t5",
         "image": "https://vignette.wikia.nocookie.net/moapyr/images/2/25/Hevyicon.png"
@@ -296,7 +300,8 @@
     },
     "ZTARGET": {
         "filter": "ga bud t5",
-        "image": "http://mentalomega.com/images/cameo/zbecicon.png"
+        "image": "http://mentalomega.com/images/cameo/zbecicon.png",
+        "local": "./assets/zbecicon.png"
     },
     "NAHOSP": {
         "filter": "na bud t5",

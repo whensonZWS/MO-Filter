@@ -888,6 +888,13 @@
         "description": "Name: Thor Gunship<br>INI Name: THOR<br>VoiceAttack: ThorAttackCommand<br>Art: thoricon<br>Index: 19",
         "filter": "ga veh t3"
     },
+    "UMIN": {
+        "filter": "ga veh t5",
+        "image": "http://mentalomega.com/ch/images/cameo/",
+        "local": "./assets/wminicon.png",
+        "name": "Ultra Miner",
+        "description": "Name: Ultra Miner<br>INI Name: UMIN<br>VoiceAttack: ChronoMinerMove<br>Art: wminicon<br>Index: 8"
+    },
     "DRON": {
         "image": "http://mentalomega.com/images/cameo/drncicon.png",
         "local": "./assets/drncicon.png",
@@ -1942,7 +1949,7 @@
     "ZTARGET": {
         "filter": "ga bud t5",
         "image": "http://mentalomega.com/images/cameo/zbecicon.png",
-        "local": "./assets/.png",
+        "local": "./assets/zbecicon.png",
         "name": "Zephyrobot",
         "description": "Name: Zephyrobot<br>INI Name: ZTARGET<br>Index: 145"
     },
